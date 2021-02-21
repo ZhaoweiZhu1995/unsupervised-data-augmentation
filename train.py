@@ -121,9 +121,9 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
     return metrics
 
 
-def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False, unsupervised=False):
+def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False, unsupervised=False, mode = None):
     max_epoch = C.get()['epoch']
-    trainloader, unsuploader, testloader = get_dataloaders(C.get()['dataset'], C.get()['batch'], C.get()['batch_unsup'], dataroot)
+    trainloader, unsuploader, testloader = get_dataloaders(C.get()['dataset'], C.get()['batch'], C.get()['batch_unsup'], dataroot, mode = mode)
 
     # create a model & an optimizer
     model = get_model(C.get()['model'], num_class(C.get()['dataset']), data_parallel=True)
@@ -234,6 +234,7 @@ if __name__ == '__main__':
     parser.add_argument('--decay', type=float, default=-1)
     parser.add_argument('--unsupervised', action='store_true')
     parser.add_argument('--only-eval', action='store_true')
+    parser.add_argument('--sample', default='None', type=str, help='sampling strategy')
     args = parser.parse_args()
 
     assert (args.only_eval and not args.save) or not args.only_eval, 'checkpoint path not provided in evaluation mode.'
@@ -247,7 +248,7 @@ if __name__ == '__main__':
 
     import time
     t = time.time()
-    result = train_and_eval(args.tag, args.dataroot, save_path=args.save, only_eval=args.only_eval, unsupervised=args.unsupervised)
+    result = train_and_eval(args.tag, args.dataroot, save_path=args.save, only_eval=args.only_eval, unsupervised=args.unsupervised, mode=args.sample)
     elapsed = time.time() - t
 
     logger.info('training done.')

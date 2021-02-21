@@ -18,8 +18,37 @@ from samplers.stratified_sampler import StratifiedSampler
 logger = get_logger('Unsupervised Data Augmentation')
 logger.setLevel(logging.INFO)
 
+def train_val_split(labels, n_labeled_per_class, mode = None):
+    labels = np.array(labels)
+    train_labeled_idxs = []
+    train_unlabeled_idxs = []
+    val_idxs = []
+    # Set some strategies
+    print(f'Current sampling strategy is {mode}')
+    if mode == 'PureRandom':
+        idxs = np.arange(labels.shape[0])
+        np.random.shuffle(idxs)
+        train_labeled_idxs = idxs[:n_labeled_per_class*10]
+        train_unlabeled_idxs = idxs[n_labeled_per_class*10:-5000]
+        val_idxs = idxs[-5000:]
+        rec = np.zeros(10)
+        for i in range(10):
+            rec[i] = np.sum(labels[train_labeled_idxs] == i)
+        print(f'We sampled {rec} instances for each class')
+    else:
+        for i in range(10):
+            idxs = np.where(labels == i)[0]
+            np.random.shuffle(idxs)
+            train_labeled_idxs.extend(idxs[:n_labeled_per_class])
+            train_unlabeled_idxs.extend(idxs[n_labeled_per_class:-500])
+            val_idxs.extend(idxs[-500:])
+    np.random.shuffle(train_labeled_idxs)
+    np.random.shuffle(train_unlabeled_idxs)
+    np.random.shuffle(val_idxs)
 
-def get_dataloaders(dataset, batch, batch_unsup, dataroot):
+    return train_labeled_idxs, train_unlabeled_idxs, val_idxs
+
+def get_dataloaders(dataset, batch, batch_unsup, dataroot, mode = None):
     if 'cifar' in dataset:
         transform_train = transforms.Compose([
             transforms.RandomCrop(32, padding=4),
@@ -72,18 +101,17 @@ def get_dataloaders(dataset, batch, batch_unsup, dataroot):
             testset = torchvision.datasets.CIFAR100(root=dataroot, train=False, download=True, transform=transform_test)
         else:
             raise ValueError
-
-        sss = StratifiedShuffleSplit(n_splits=1, test_size=47500, random_state=0)   # 2500 trainset
-        sss = sss.split(list(range(len(total_trainset))), total_trainset.targets)
-        train_idx, valid_idx = next(sss)
+        
+        n_labeled = 250
+        train_idx, valid_idx, _ = train_val_split(total_trainset.targets, int(n_labeled/10), mode = mode) # only for cifar10
+        # sss = StratifiedShuffleSplit(n_splits=1, test_size=49750, random_state=0)   # 250 trainset
+        # sss = sss.split(list(range(len(total_trainset))), total_trainset.targets)
+        # train_idx, valid_idx = next(sss)
         train_labels = [total_trainset.targets[idx] for idx in train_idx]
 
         trainset = Subset(total_trainset, train_idx)        # for supervised
         trainset.train_labels = train_labels
-        rec = np.zeros(10) # only for cifar10
-        for i in range(10):
-            rec[i] = np.sum(np.array(train_labels) == i)
-        print(f'We sampled {rec} instances for each class')
+
 
         otherset = Subset(unsup_trainset, valid_idx)        # for unsupervised
         # otherset = unsup_trainset
