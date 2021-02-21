@@ -1,5 +1,5 @@
 import torch
-from pretrainedmodels import models
+# from pretrainedmodels import models
 
 from torch import nn
 from torch.nn import DataParallel
