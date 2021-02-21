@@ -117,7 +117,7 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
         for key, value in metrics.items():
             writer.add_scalar(key, value, epoch)
     top1_acc = metrics['top1']
-    print(f'{[desc_default]} top1_per_class accuracy is: {np.round(top1_per_class.avg,2)}, average: {np.round(top1_acc,4)}', flush = True)
+    print(f'Epoch {epoch} {[desc_default]} top1_per_class accuracy is: {np.round(top1_per_class.avg,2)}, average: {np.round(top1_acc,4)}', flush = True)
     return metrics
 
 
