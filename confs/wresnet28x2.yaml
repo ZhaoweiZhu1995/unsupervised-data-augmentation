@@ -6,7 +6,7 @@ cutout: 16
 
 # UDA-related hyperparams
 batch: 32
-batch_unsup: 320  # 960
+batch_unsup: 640  # 960
 ratio_unsup: 5.0
 ratio_mode: 'constant'
 

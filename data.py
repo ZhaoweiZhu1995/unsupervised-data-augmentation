@@ -31,10 +31,6 @@ def train_val_split(labels, n_labeled_per_class, mode = None):
         train_labeled_idxs = idxs[:n_labeled_per_class*10]
         train_unlabeled_idxs = idxs[n_labeled_per_class*10:-5000]
         val_idxs = idxs[-5000:]
-        rec = np.zeros(10)
-        for i in range(10):
-            rec[i] = np.sum(labels[train_labeled_idxs] == i)
-        print(f'We sampled {rec} instances for each class')
     else:
         for i in range(10):
             idxs = np.where(labels == i)[0]
@@ -42,6 +38,10 @@ def train_val_split(labels, n_labeled_per_class, mode = None):
             train_labeled_idxs.extend(idxs[:n_labeled_per_class])
             train_unlabeled_idxs.extend(idxs[n_labeled_per_class:-500])
             val_idxs.extend(idxs[-500:])
+    rec = np.zeros(10)
+    for i in range(10):
+        rec[i] = np.sum(labels[train_labeled_idxs] == i)
+    print(f'We sampled {rec} instances for each class')
     np.random.shuffle(train_labeled_idxs)
     np.random.shuffle(train_unlabeled_idxs)
     np.random.shuffle(val_idxs)
