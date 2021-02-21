@@ -31,7 +31,7 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
 
 
     tqdm_disable = bool(os.environ.get('TASK_NAME', ''))
-    verbose = False
+    tqdm_disable = True
     if verbose:
         loader_s = tqdm(loader_s, disable=tqdm_disable)
         loader_s.set_description('[%s %04d/%04d]' % (desc_default, epoch, C.get()['epoch']))
