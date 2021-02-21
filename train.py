@@ -13,11 +13,11 @@ from theconf import Config as C, ConfigArgumentParser
 
 from common import get_logger
 from data import get_dataloaders
-from metrics import accuracy, Accumulator
+from metrics import accuracy, Accumulator, AverageMeterVector
 from networks import get_model, num_class
 
 from warmup_scheduler import GradualWarmupScheduler
-
+import numpy as np
 
 logger = get_logger('Unsupervised Data Augmentation')
 logger.setLevel(logging.INFO)
@@ -25,7 +25,11 @@ logger.setLevel(logging.INFO)
 best_valid_top1 = 0
 
 
-def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', epoch=0, writer=None, verbose=1, unsupervised=False, scheduler=None):
+def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', epoch=0, writer=None, verbose=1, unsupervised=False, scheduler=None, num_classes = 10):
+
+    top1_per_class = AverageMeterVector(num_classes)
+
+
     tqdm_disable = bool(os.environ.get('TASK_NAME', ''))
     if verbose:
         loader_s = tqdm(loader_s, disable=tqdm_disable)
@@ -83,7 +87,8 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
             optimizer.zero_grad()
 
         top1, top5 = accuracy(preds, label, (1, 5))
-
+        prec1_per_class, rec_num = accuracy(preds, label, topk=(1,), per_class=True)
+        top1_per_class.update(prec1_per_class.cpu().numpy(), rec_num.cpu().numpy())
         metrics.add_dict({
             'loss': loss.item() * len(data),
             'top1': top1.item() * len(data),
@@ -110,6 +115,8 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
     if verbose:
         for key, value in metrics.items():
             writer.add_scalar(key, value, epoch)
+    top1_acc = metrics['top1']
+    print(f'{[desc_default]} top1_per_class accuracy is: {np.round(top1_per_class.avg,2)}, average: {np.round(top1_acc,4)}', flush = True)
     return metrics
 
 
