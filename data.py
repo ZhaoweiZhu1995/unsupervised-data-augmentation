@@ -73,13 +73,17 @@ def get_dataloaders(dataset, batch, batch_unsup, dataroot):
         else:
             raise ValueError
 
-        sss = StratifiedShuffleSplit(n_splits=1, test_size=46000, random_state=0)   # 4000 trainset
+        sss = StratifiedShuffleSplit(n_splits=1, test_size=47500, random_state=0)   # 2500 trainset
         sss = sss.split(list(range(len(total_trainset))), total_trainset.targets)
         train_idx, valid_idx = next(sss)
         train_labels = [total_trainset.targets[idx] for idx in train_idx]
 
         trainset = Subset(total_trainset, train_idx)        # for supervised
         trainset.train_labels = train_labels
+        rec = np.zeros(10) # only for cifar10
+        for i in range(10):
+            rec[i] = np.sum(np.array(train_labels) == i)
+        print(f'We sampled {rec} instances for each class')
 
         otherset = Subset(unsup_trainset, valid_idx)        # for unsupervised
         # otherset = unsup_trainset
