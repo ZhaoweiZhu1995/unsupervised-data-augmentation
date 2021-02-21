@@ -2,7 +2,7 @@ import copy
 
 import torch
 from collections import defaultdict
-
+import numpy as np
 from torch import nn
 
 class AverageMeterVector(object):
@@ -21,7 +21,7 @@ class AverageMeterVector(object):
         self.sum += val * n
         self.count += n
         self.avg = self.sum / self.count
-        
+
 def accuracy(output, target, topk=(1,), per_class = False):
     """Computes the precision@k for the specified values of k"""
     maxk = max(topk)
