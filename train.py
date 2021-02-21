@@ -228,7 +228,7 @@ def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False
 if __name__ == '__main__':
     parser = ConfigArgumentParser(conflict_handler='resolve')
     parser.add_argument('--tag', type=str, default='')
-    parser.add_argument('--dataroot', type=str, default='/data/private/pretrainedmodels', help='torchvision data folder')
+    parser.add_argument('--dataroot', type=str, default='.data', help='torchvision data folder')
     parser.add_argument('--save', type=str, default='')
     parser.add_argument('--decay', type=float, default=-1)
     parser.add_argument('--unsupervised', action='store_true')
