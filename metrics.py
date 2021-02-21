@@ -38,14 +38,14 @@ def accuracy(output, target, topk=(1,), per_class = False):
         rec_num = torch.zeros(num_classes)
         for class_i in range(num_classes):
             correct_class = correct * (target.view(1, -1) == class_i).expand_as(pred)
-            correct_k = correct_class[0].view(-1).float().sum(0)
+            correct_k = correct_class[0].reshape(-1).float().sum(0)
             rec_num[class_i] = torch.sum(target == class_i)
             res_per_class[class_i] = (correct_k.mul_(100.0 / rec_num[class_i])) if rec_num[class_i]>0 else 0.0
         return res_per_class, rec_num
     else:
         res = []
         for k in topk:
-            correct_k = correct[:k].view(-1).float().sum(0)
+            correct_k = correct[:k].reshape(-1).float().sum(0)
             res.append(correct_k.mul_(100.0 / batch_size))
         return res
 
