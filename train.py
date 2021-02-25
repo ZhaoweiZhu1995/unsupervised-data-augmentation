@@ -188,7 +188,10 @@ def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False
     for epoch in range(epoch_start, max_epoch + 1):
         model.train()
         rs = dict()
-        rs['train'] = run_epoch(model, trainloader, unsuploader, criterion, optimizer, desc_default='train', epoch=epoch, writer=writers[0], verbose=True, unsupervised=unsupervised, scheduler=scheduler)
+        if args.train_mode == 'small':
+            rs['train'] = run_epoch(model, trainloader, unsuploader, criterion, optimizer, desc_default='train', epoch=epoch, writer=writers[0], verbose=True, unsupervised=False, scheduler=scheduler)
+        else:
+            rs['train'] = run_epoch(model, trainloader, unsuploader, criterion, optimizer, desc_default='train', epoch=epoch, writer=writers[0], verbose=True, unsupervised=unsupervised, scheduler=scheduler)
         if math.isnan(rs['train']['loss']):
             raise Exception('train loss is NaN.')
 
@@ -235,6 +238,8 @@ if __name__ == '__main__':
     parser.add_argument('--unsupervised', action='store_true')
     parser.add_argument('--only-eval', action='store_true')
     parser.add_argument('--sample', default='None', type=str, help='sampling strategy')
+    parser.add_argument('--train_mode', default='ssl', type=str, help='training strategy')
+
     args = parser.parse_args()
 
     assert (args.only_eval and not args.save) or not args.only_eval, 'checkpoint path not provided in evaluation mode.'
