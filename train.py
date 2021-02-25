@@ -189,6 +189,7 @@ def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False
         model.train()
         rs = dict()
         if args.train_mode == 'small':
+            print(f'only small')
             rs['train'] = run_epoch(model, trainloader, unsuploader, criterion, optimizer, desc_default='train', epoch=epoch, writer=writers[0], verbose=True, unsupervised=False, scheduler=scheduler)
         else:
             rs['train'] = run_epoch(model, trainloader, unsuploader, criterion, optimizer, desc_default='train', epoch=epoch, writer=writers[0], verbose=True, unsupervised=unsupervised, scheduler=scheduler)
