@@ -123,7 +123,7 @@ def run_epoch(model, loader_s, loader_u, loss_fn, optimizer, desc_default='', ep
 
 def train_and_eval(tag, dataroot, metric='last', save_path=None, only_eval=False, unsupervised=False, mode = None):
     max_epoch = C.get()['epoch']
-    trainloader, unsuploader, testloader = get_dataloaders(C.get()['dataset'], C.get()['batch'], C.get()['batch_unsup'], dataroot, mode = mode)
+    trainloader, unsuploader, testloader = get_dataloaders(C.get()['dataset'], C.get()['batch'], C.get()['batch_unsup'], dataroot, mode = mode, n_labeled = args.n_labeled)
 
     # create a model & an optimizer
     model = get_model(C.get()['model'], num_class(C.get()['dataset']), data_parallel=True)
@@ -240,6 +240,7 @@ if __name__ == '__main__':
     parser.add_argument('--only-eval', action='store_true')
     parser.add_argument('--sample', default='None', type=str, help='sampling strategy')
     parser.add_argument('--train_mode', default='ssl', type=str, help='training strategy')
+    parser.add_argument('--n_labeled', type=int, default=250, help='Number of labeled data')
 
     args = parser.parse_args()
 

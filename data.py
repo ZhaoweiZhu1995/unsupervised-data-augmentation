@@ -48,7 +48,7 @@ def train_val_split(labels, n_labeled_per_class, mode = None):
 
     return train_labeled_idxs, train_unlabeled_idxs, val_idxs
 
-def get_dataloaders(dataset, batch, batch_unsup, dataroot, mode = None):
+def get_dataloaders(dataset, batch, batch_unsup, dataroot, mode = None, n_labeled = 250):
     if 'cifar' in dataset:
         transform_train = transforms.Compose([
             transforms.RandomCrop(32, padding=4),
@@ -102,7 +102,7 @@ def get_dataloaders(dataset, batch, batch_unsup, dataroot, mode = None):
         else:
             raise ValueError
         
-        n_labeled = 250
+        # n_labeled = 250
         train_idx, valid_idx, _ = train_val_split(total_trainset.targets, int(n_labeled/10), mode = mode) # only for cifar10
         # sss = StratifiedShuffleSplit(n_splits=1, test_size=49750, random_state=0)   # 250 trainset
         # sss = sss.split(list(range(len(total_trainset))), total_trainset.targets)
