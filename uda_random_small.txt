@@ -1,0 +1,160 @@
+Epoch 10 ['*test'] top1_per_class accuracy is: [19.6  3.4  2.6  2.8 70.4 18.2  4.4  8.6 59.2  3. ], average: 19.22
+Epoch 20 ['*test'] top1_per_class accuracy is: [53.3 20.9 23.  16.1 44.5 22.5  8.7 17.3 17.5  5.3], average: 22.91
+Epoch 30 ['*test'] top1_per_class accuracy is: [24.9 35.9 25.1 25.2 14.  32.9  8.4 33.9 50.2 46.9], average: 29.74
+Epoch 40 ['*test'] top1_per_class accuracy is: [39.6 52.1 26.5  8.6 16.6 37.6 41.1 13.7 53.  21.2], average: 31.0
+Epoch 50 ['*test'] top1_per_class accuracy is: [51.8 31.  18.  17.  15.6 52.4 46.7  3.3 55.1 32.6], average: 32.35
+Epoch 60 ['*test'] top1_per_class accuracy is: [27.4 53.9 13.6  5.8 21.9 46.6 20.4 32.5 49.8 42.5], average: 31.44
+Epoch 70 ['*test'] top1_per_class accuracy is: [49.2 28.2 11.6 29.  36.8 18.  33.6 47.6 54.9 41.8], average: 35.07
+Epoch 80 ['*test'] top1_per_class accuracy is: [37.1 41.4 32.8 24.8  5.5 34.9 46.3 19.2 43.4 14.1], average: 29.95
+Epoch 90 ['*test'] top1_per_class accuracy is: [35.8 28.8 12.6  9.8 28.7 47.  55.5 39.7 50.6 60.7], average: 36.92
+Epoch 100 ['*test'] top1_per_class accuracy is: [64.4 46.8 37.7 25.  21.2 31.3 26.  52.8 21.7 44.1], average: 37.1
+Epoch 110 ['*test'] top1_per_class accuracy is: [44.6 38.9 48.6 34.1 20.1  9.  42.2 26.3 63.3 26.2], average: 35.33
+Epoch 120 ['*test'] top1_per_class accuracy is: [45.8 43.  29.  16.9 17.6 48.9 64.9 38.9 44.3 39.4], average: 38.87
+Epoch 130 ['*test'] top1_per_class accuracy is: [40.3 62.4 41.   7.1 35.5 38.2 52.  36.7 50.8 22.7], average: 38.67
+Epoch 140 ['*test'] top1_per_class accuracy is: [45.8 24.9 32.1 18.6 25.7 35.2 40.4 61.2 53.4 54.6], average: 39.19
+Epoch 150 ['*test'] top1_per_class accuracy is: [35.3 50.1 29.3 24.  28.5 33.2 36.  56.7 54.1 59.7], average: 40.69
+Epoch 160 ['*test'] top1_per_class accuracy is: [21.1 62.6 42.3 40.6 23.9 18.7 53.  38.1 68.9 36.8], average: 40.6
+Epoch 170 ['*test'] top1_per_class accuracy is: [39.2 58.5 49.5 16.8 34.5 23.3 31.5 45.2 52.6 28.7], average: 37.98
+Epoch 180 ['*test'] top1_per_class accuracy is: [52.6 40.9 31.8 32.3 38.9 22.5 35.  45.9 70.6 41.8], average: 41.23
+Epoch 190 ['*test'] top1_per_class accuracy is: [38.1 45.3 49.6 34.7 23.2 42.1 49.  21.8 45.5 63.4], average: 41.27
+Epoch 200 ['*test'] top1_per_class accuracy is: [40.5 56.8 30.2 26.5 42.4 64.1 41.6 24.9 50.  44.2], average: 42.12
+Epoch 210 ['*test'] top1_per_class accuracy is: [56.6 35.2 52.  24.7 16.2 35.2 54.9 36.1 44.9 64.2], average: 42.0
+Epoch 220 ['*test'] top1_per_class accuracy is: [45.4 66.7 33.9 43.1 30.6 29.6 43.3 35.6 48.5 33.7], average: 41.04
+Epoch 230 ['*test'] top1_per_class accuracy is: [37.1 40.2 28.8 49.1 29.2 24.5 39.1 40.  65.2 66.8], average: 42.0
+Epoch 240 ['*test'] top1_per_class accuracy is: [46.4 63.2 34.7 15.3 42.2 35.2 33.  35.3 75.7 15.7], average: 39.67
+Epoch 250 ['*test'] top1_per_class accuracy is: [52.7 43.2 33.  38.2 26.4 29.7 69.6 48.  54.3 53.7], average: 44.88
+Epoch 260 ['*test'] top1_per_class accuracy is: [51.8 35.2 34.3 21.1 19.5 57.1 30.3 32.3 65.  66.1], average: 41.27
+Epoch 270 ['*test'] top1_per_class accuracy is: [55.1 62.9 30.4 42.6 37.7 32.8 46.7 46.  47.8 30.7], average: 43.27
+Epoch 280 ['*test'] top1_per_class accuracy is: [49.5 60.9 21.7 47.6 35.5 23.6 61.4 47.1 41.1 34.9], average: 42.33
+Epoch 290 ['*test'] top1_per_class accuracy is: [57.1 44.4 40.5 21.  29.6 33.4 66.4 56.2 45.7 51.3], average: 44.56
+Epoch 300 ['*test'] top1_per_class accuracy is: [41.4 67.6 32.  33.6 38.4 29.  50.2 58.  56.4 36.1], average: 44.27
+Epoch 310 ['*test'] top1_per_class accuracy is: [46.3 57.8 29.4 38.9 46.4 27.3 45.2 55.5 55.1 33.5], average: 43.54
+Epoch 320 ['*test'] top1_per_class accuracy is: [32.9 70.3 45.9 27.  38.1 37.3 39.4 37.9 53.1 41.3], average: 42.32
+Epoch 330 ['*test'] top1_per_class accuracy is: [45.9 49.1 32.3 29.7 24.1 34.  76.1 55.3 62.8 57. ], average: 46.63
+Epoch 340 ['*test'] top1_per_class accuracy is: [38.7 65.3 39.2 29.1 52.6 38.1 46.5 35.6 63.2 42.3], average: 45.06
+Epoch 350 ['*test'] top1_per_class accuracy is: [56.4 58.  38.5 20.7 39.9 52.1 62.2 43.6 62.7 42. ], average: 47.61
+Epoch 360 ['*test'] top1_per_class accuracy is: [50.8 58.1 49.4 28.9 35.6 38.2 44.1 42.  56.6 43.6], average: 44.73
+Epoch 370 ['*test'] top1_per_class accuracy is: [47.2 59.1 31.7 44.2 43.9 38.3 34.3 46.9 54.6 50.5], average: 45.07
+Epoch 380 ['*test'] top1_per_class accuracy is: [52.9 61.7 26.8 26.2 29.7 33.3 63.3 39.  47.9 58.4], average: 43.92
+Epoch 390 ['*test'] top1_per_class accuracy is: [55.1 56.7 33.7 34.9 48.6 55.1 45.7 42.2 38.5 50.1], average: 46.06
+Epoch 400 ['*test'] top1_per_class accuracy is: [48.  46.1 44.  36.2 51.8 31.6 47.5 34.8 64.3 56.4], average: 46.07
+Epoch 410 ['*test'] top1_per_class accuracy is: [44.8 69.7 30.9 16.4 48.7 36.3 53.1 52.1 48.6 60.3], average: 46.09
+Epoch 420 ['*test'] top1_per_class accuracy is: [52.7 34.1 42.3 35.2 38.3 35.8 47.3 51.2 50.4 53.9], average: 44.12
+Epoch 430 ['*test'] top1_per_class accuracy is: [35.9 66.6 36.7 33.5 43.5 35.1 50.5 39.9 54.6 43.7], average: 44.0
+Epoch 440 ['*test'] top1_per_class accuracy is: [53.3 62.1 38.4 19.6 31.9 39.  56.5 57.6 40.6 51.8], average: 45.08
+Epoch 450 ['*test'] top1_per_class accuracy is: [47.3 49.9 25.4 38.4 26.4 38.8 64.7 63.9 41.1 63.1], average: 45.9
+Epoch 460 ['*test'] top1_per_class accuracy is: [37.5 49.2 38.7 28.2 56.2 45.8 50.9 46.  59.3 55.8], average: 46.76
+Epoch 470 ['*test'] top1_per_class accuracy is: [41.1 46.9 33.5 29.7 34.8 42.3 54.5 49.5 41.4 66. ], average: 43.97
+Epoch 480 ['*test'] top1_per_class accuracy is: [39.6 53.4 43.7 32.6 38.2 24.8 56.1 56.8 47.5 54.1], average: 44.68
+Epoch 490 ['*test'] top1_per_class accuracy is: [53.1 63.1 24.7 43.  56.5 28.  47.8 42.3 39.9 51.1], average: 44.95
+Epoch 500 ['*test'] top1_per_class accuracy is: [41.6 55.5 31.3 25.  53.8 50.7 45.6 44.8 64.9 52.6], average: 46.58
+Epoch 510 ['*test'] top1_per_class accuracy is: [35.6 59.4 24.1 25.3 50.2 62.  21.5 42.7 56.8 52.3], average: 42.99
+Epoch 520 ['*test'] top1_per_class accuracy is: [37.7 61.4 28.  25.2 37.9 48.9 60.2 52.  40.  56.7], average: 44.8
+Epoch 530 ['*test'] top1_per_class accuracy is: [42.8 68.7 34.4 14.6 28.9 46.6 78.6 45.1 51.1 45.7], average: 45.65
+Epoch 540 ['*test'] top1_per_class accuracy is: [49.2 68.7 30.9 23.9 27.1 48.8 62.1 60.2 49.5 49.3], average: 46.97
+Epoch 550 ['*test'] top1_per_class accuracy is: [29.9 60.3 46.3 45.8 46.1 19.2 52.1 28.9 37.8 64.6], average: 43.1
+Epoch 560 ['*test'] top1_per_class accuracy is: [40.  44.5 39.5 28.1 34.4 27.1 74.  49.8 57.7 77.3], average: 47.24
+Epoch 570 ['*test'] top1_per_class accuracy is: [42.3 58.8 27.9 30.4 35.4 36.6 68.1 63.4 57.8 69.1], average: 48.98
+Epoch 580 ['*test'] top1_per_class accuracy is: [48.9 69.3 41.8 16.5 63.3 44.9 57.5 36.5 46.8 51.8], average: 47.73
+Epoch 590 ['*test'] top1_per_class accuracy is: [35.  68.1 39.  39.4 36.5 25.7 37.3 61.3 55.3 40.5], average: 43.81
+Epoch 600 ['*test'] top1_per_class accuracy is: [42.1 65.2 41.1 28.3 59.5 45.2 41.9 45.6 62.6 46.4], average: 47.79
+Epoch 610 ['*test'] top1_per_class accuracy is: [29.3 69.  32.6 33.3 59.4 22.9 56.7 59.6 57.3 63.4], average: 48.35
+Epoch 620 ['*test'] top1_per_class accuracy is: [40.3 68.6 43.1 24.7 35.3 28.5 44.8 70.4 43.9 47.8], average: 44.74
+Epoch 630 ['*test'] top1_per_class accuracy is: [42.1 64.6 35.1 33.9 56.9 32.4 49.3 51.9 44.9 47.6], average: 45.87
+Epoch 640 ['*test'] top1_per_class accuracy is: [40.9 60.4 37.6 53.6 33.2 14.1 43.6 59.8 75.9 62.9], average: 48.2
+Epoch 650 ['*test'] top1_per_class accuracy is: [35.7 59.4 45.9 23.3 45.1 38.9 47.3 60.  74.4 53.1], average: 48.31
+Epoch 660 ['*test'] top1_per_class accuracy is: [29.4 54.5 32.7 25.1 46.8 42.9 63.8 46.7 63.7 67.2], average: 47.28
+Epoch 670 ['*test'] top1_per_class accuracy is: [39.6 62.  33.2 32.9 45.3 31.6 53.5 62.8 40.5 69.4], average: 47.08
+Epoch 680 ['*test'] top1_per_class accuracy is: [35.1 68.3 44.5 21.9 27.3 29.3 55.4 67.5 56.8 55.5], average: 46.16
+Epoch 690 ['*test'] top1_per_class accuracy is: [32.9 61.2 42.5 41.5 35.5 36.2 52.  51.8 56.2 54.6], average: 46.44
+Epoch 700 ['*test'] top1_per_class accuracy is: [34.2 59.2 38.8 31.7 46.  37.9 62.8 55.1 70.  56.8], average: 49.25
+Epoch 710 ['*test'] top1_per_class accuracy is: [29.2 58.5 53.4 32.2 56.2 31.6 27.1 40.9 65.3 64.4], average: 45.88
+Epoch 720 ['*test'] top1_per_class accuracy is: [38.7 55.5 34.7 26.4 49.4 43.7 36.2 45.  54.4 71.6], average: 45.56
+Epoch 730 ['*test'] top1_per_class accuracy is: [40.8 66.4 22.9 21.7 31.5 49.3 55.  71.2 60.7 31.9], average: 45.14
+Epoch 740 ['*test'] top1_per_class accuracy is: [48.8 42.7 31.6 43.9 37.2 28.  62.7 59.6 42.8 82.8], average: 48.01
+Epoch 750 ['*test'] top1_per_class accuracy is: [45.5 56.1 31.2 25.3 31.7 41.7 58.8 72.2 44.6 70.2], average: 47.73
+Epoch 760 ['*test'] top1_per_class accuracy is: [38.1 55.4 34.1 21.7 27.3 57.3 50.8 51.5 56.4 72.8], average: 46.54
+Epoch 770 ['*test'] top1_per_class accuracy is: [41.8 59.8 48.1 56.9 28.3 26.3 59.1 58.5 63.1 64.8], average: 50.67
+Epoch 780 ['*test'] top1_per_class accuracy is: [47.2 66.3 32.3 29.7 44.4 40.3 67.7 52.1 54.8 53.1], average: 48.79
+Epoch 790 ['*test'] top1_per_class accuracy is: [41.5 45.8 36.7 43.8 56.1 37.  17.8 57.3 44.8 77.1], average: 45.79
+Epoch 800 ['*test'] top1_per_class accuracy is: [64.2 51.7 30.5 36.6 35.4 40.  69.8 40.9 54.3 64. ], average: 48.74
+Epoch 810 ['*test'] top1_per_class accuracy is: [49.7 69.  20.6 21.5 50.4 45.9 42.3 51.4 47.5 58.3], average: 45.66
+Epoch 820 ['*test'] top1_per_class accuracy is: [45.4 58.  25.4 57.6 50.5 23.  46.7 47.9 41.4 70.6], average: 46.65
+Epoch 830 ['*test'] top1_per_class accuracy is: [52.2 65.7 36.9 14.7 36.8 53.3 51.6 70.1 56.4 58.7], average: 49.64
+Epoch 840 ['*test'] top1_per_class accuracy is: [36.4 46.3 28.4 49.7 38.8 49.9 45.  55.7 47.5 74.2], average: 47.19
+Epoch 850 ['*test'] top1_per_class accuracy is: [43.5 65.4 29.4 32.1 35.6 49.5 48.2 57.4 63.7 68.2], average: 49.3
+Epoch 860 ['*test'] top1_per_class accuracy is: [37.1 68.8 44.1 40.8 56.9 45.8 39.1 45.4 38.6 58.3], average: 47.49
+Epoch 870 ['*test'] top1_per_class accuracy is: [47.7 72.8 45.8 17.3 44.6 37.4 59.7 59.7 39.4 61. ], average: 48.54
+Epoch 880 ['*test'] top1_per_class accuracy is: [50.3 65.6 39.1 28.2 53.3 25.4 63.4 45.  62.5 61.2], average: 49.4
+Epoch 890 ['*test'] top1_per_class accuracy is: [55.  60.6 33.8 36.8 45.3 45.  40.4 61.7 50.6 63.4], average: 49.26
+Epoch 900 ['*test'] top1_per_class accuracy is: [43.9 60.5 34.6 26.4 37.5 46.3 52.3 69.4 48.2 65. ], average: 48.41
+Epoch 910 ['*test'] top1_per_class accuracy is: [40.4 69.8 33.4 27.9 63.3 51.8 38.  40.2 58.8 50.6], average: 47.42
+Epoch 920 ['*test'] top1_per_class accuracy is: [33.7 62.8 37.1 27.5 57.8 47.1 33.8 51.6 65.2 62.7], average: 47.93
+Epoch 930 ['*test'] top1_per_class accuracy is: [49.9 64.7 37.7 44.6 51.7 26.1 56.1 51.3 57.4 55.1], average: 49.46
+Epoch 940 ['*test'] top1_per_class accuracy is: [43.8 54.3 42.9 22.1 57.2 46.4 39.7 51.  54.3 67.9], average: 47.96
+Epoch 950 ['*test'] top1_per_class accuracy is: [42.7 63.6 48.2 35.6 43.6 25.  44.6 65.4 65.  53.9], average: 48.76
+Epoch 960 ['*test'] top1_per_class accuracy is: [50.3 55.3 38.2 27.5 48.3 41.  41.2 50.6 57.5 67.4], average: 47.73
+Epoch 970 ['*test'] top1_per_class accuracy is: [42.4 49.3 33.4 34.3 50.9 27.1 52.5 54.3 67.1 67.3], average: 47.86
+Epoch 980 ['*test'] top1_per_class accuracy is: [54.6 63.  38.7 28.  42.5 31.3 60.1 58.7 60.9 58.7], average: 49.65
+Epoch 990 ['*test'] top1_per_class accuracy is: [37.1 67.  38.8 29.7 51.1 44.3 50.6 63.7 63.4 57. ], average: 50.27
+Epoch 1000 ['*test'] top1_per_class accuracy is: [31.9 40.4 41.3 29.8 43.6 46.2 57.2 48.4 75.3 73.2], average: 48.73
+Epoch 1010 ['*test'] top1_per_class accuracy is: [46.8 56.3 33.5 31.9 36.2 29.9 63.7 62.5 70.4 67.1], average: 49.83
+Epoch 1020 ['*test'] top1_per_class accuracy is: [50.6 55.3 32.9 34.2 44.2 30.5 59.9 61.3 54.  70.6], average: 49.35
+Epoch 1030 ['*test'] top1_per_class accuracy is: [44.8 72.6 42.1 29.5 48.1 46.8 63.9 53.3 51.6 59.8], average: 51.25
+Epoch 1040 ['*test'] top1_per_class accuracy is: [50.7 53.7 38.  27.4 42.2 43.2 56.2 58.6 48.5 67.1], average: 48.56
+Epoch 1050 ['*test'] top1_per_class accuracy is: [51.8 65.8 50.6 41.4 41.2 27.9 58.3 36.1 47.7 65.8], average: 48.66
+Epoch 1060 ['*test'] top1_per_class accuracy is: [51.9 59.7 38.6 30.  32.4 43.8 65.5 57.6 40.4 78.4], average: 49.83
+Epoch 1070 ['*test'] top1_per_class accuracy is: [52.2 51.4 27.4 22.7 71.5 44.3 40.4 46.9 50.7 55. ], average: 46.25
+Epoch 1080 ['*test'] top1_per_class accuracy is: [52.7 58.7 45.9 15.7 48.  50.4 66.8 56.3 51.8 60.4], average: 50.67
+Epoch 1090 ['*test'] top1_per_class accuracy is: [47.1 58.8 37.  28.1 52.9 36.9 55.8 49.  58.4 71.8], average: 49.58
+Epoch 1100 ['*test'] top1_per_class accuracy is: [52.  81.  39.6 26.6 51.7 43.1 35.  47.6 47.1 53.6], average: 47.73
+Epoch 1110 ['*test'] top1_per_class accuracy is: [42.3 79.4 41.4 30.6 52.4 40.9 40.6 50.8 74.7 47.4], average: 50.05
+Epoch 1120 ['*test'] top1_per_class accuracy is: [47.  66.6 36.1 23.3 57.9 43.8 33.  56.8 70.8 64.5], average: 49.98
+Epoch 1130 ['*test'] top1_per_class accuracy is: [37.7 50.4 31.8 33.8 47.8 36.6 56.3 68.3 63.9 73.2], average: 49.98
+Epoch 1140 ['*test'] top1_per_class accuracy is: [46.7 68.4 37.2 31.6 50.2 41.  68.9 54.4 55.5 58.5], average: 51.24
+Epoch 1150 ['*test'] top1_per_class accuracy is: [42.  50.6 42.9 34.7 51.3 44.6 50.8 55.4 57.7 75.2], average: 50.52
+Epoch 1160 ['*test'] top1_per_class accuracy is: [46.4 62.1 45.3 23.9 30.9 45.6 71.7 56.6 57.9 59.2], average: 49.96
+Epoch 1170 ['*test'] top1_per_class accuracy is: [41.2 54.6 36.2 42.8 47.8 26.2 55.7 60.  52.9 71.6], average: 48.9
+Epoch 1180 ['*test'] top1_per_class accuracy is: [51.2 64.1 34.7 26.5 43.6 32.2 77.5 56.4 55.6 55.6], average: 49.74
+Epoch 1190 ['*test'] top1_per_class accuracy is: [48.2 63.2 42.5 18.1 42.4 50.2 71.2 53.  55.4 62.6], average: 50.68
+Epoch 1200 ['*test'] top1_per_class accuracy is: [46.6 50.9 40.4 18.  49.6 45.1 66.9 60.3 49.8 76.1], average: 50.37
+Epoch 1210 ['*test'] top1_per_class accuracy is: [37.2 69.5 38.3 31.5 44.5 38.2 72.5 60.6 55.2 64. ], average: 51.15
+Epoch 1220 ['*test'] top1_per_class accuracy is: [45.7 77.5 39.6 20.3 55.6 44.3 55.9 58.2 52.1 48.9], average: 49.81
+Epoch 1230 ['*test'] top1_per_class accuracy is: [39.8 63.7 38.2 20.1 40.  45.1 65.3 63.4 36.1 74.3], average: 48.6
+Epoch 1240 ['*test'] top1_per_class accuracy is: [37.7 70.5 38.1 20.5 47.1 57.7 59.7 59.5 46.1 68.3], average: 50.52
+Epoch 1250 ['*test'] top1_per_class accuracy is: [43.5 59.7 48.1 17.9 42.1 55.9 53.4 55.  50.3 70.8], average: 49.67
+Epoch 1260 ['*test'] top1_per_class accuracy is: [47.7 62.  31.4 24.9 49.4 45.2 62.1 56.8 52.  74.1], average: 50.56
+Epoch 1270 ['*test'] top1_per_class accuracy is: [49.4 64.2 44.1 34.7 52.  41.7 52.5 46.5 55.1 61.9], average: 50.21
+Epoch 1280 ['*test'] top1_per_class accuracy is: [39.  68.5 40.5 22.1 48.3 50.3 63.9 45.8 59.4 68.6], average: 50.64
+Epoch 1290 ['*test'] top1_per_class accuracy is: [45.9 63.3 37.8 29.1 46.5 32.3 58.5 61.5 55.  75.9], average: 50.58
+Epoch 1300 ['*test'] top1_per_class accuracy is: [41.1 68.6 43.7 25.4 54.8 45.9 54.4 55.7 56.9 60.8], average: 50.73
+Epoch 1310 ['*test'] top1_per_class accuracy is: [45.6 61.9 34.9 21.4 38.4 56.2 73.6 56.  59.2 67.8], average: 51.5
+Epoch 1320 ['*test'] top1_per_class accuracy is: [44.1 73.1 37.9 23.5 40.  46.2 71.  52.9 60.4 67.6], average: 51.67
+Epoch 1330 ['*test'] top1_per_class accuracy is: [49.9 58.7 35.7 29.  40.5 32.  71.9 63.9 57.4 79.7], average: 51.87
+Epoch 1340 ['*test'] top1_per_class accuracy is: [39.9 68.6 35.9 29.2 46.2 44.7 59.4 53.3 51.4 81.4], average: 51.0
+Epoch 1350 ['*test'] top1_per_class accuracy is: [47.9 69.3 42.1 25.8 55.4 45.4 58.9 52.  62.6 67.3], average: 52.67
+Epoch 1360 ['*test'] top1_per_class accuracy is: [45.  58.5 35.7 30.3 43.7 32.5 58.6 64.4 61.6 80.2], average: 51.05
+Epoch 1370 ['*test'] top1_per_class accuracy is: [53.6 64.5 29.3 36.6 58.6 37.8 62.1 52.5 54.1 71.1], average: 52.02
+Epoch 1380 ['*test'] top1_per_class accuracy is: [48.9 64.2 39.6 31.7 47.  39.8 63.4 55.2 63.1 67. ], average: 51.99
+Epoch 1390 ['*test'] top1_per_class accuracy is: [45.6 69.4 39.9 30.3 60.7 36.  49.2 54.7 60.2 67.3], average: 51.33
+Epoch 1400 ['*test'] top1_per_class accuracy is: [47.5 66.1 35.6 23.9 43.5 45.8 56.6 68.2 62.4 67.5], average: 51.71
+Epoch 1410 ['*test'] top1_per_class accuracy is: [50.8 71.5 37.  33.3 46.3 42.4 53.2 58.5 64.  60. ], average: 51.7
+Epoch 1420 ['*test'] top1_per_class accuracy is: [45.5 61.1 38.4 26.1 42.3 41.3 57.6 65.  41.2 80. ], average: 49.85
+Epoch 1430 ['*test'] top1_per_class accuracy is: [40.2 62.8 38.5 24.1 55.1 38.  51.9 61.5 48.4 78.5], average: 49.9
+Epoch 1440 ['*test'] top1_per_class accuracy is: [43.7 66.3 41.5 22.3 52.3 44.1 54.2 60.2 55.1 73. ], average: 51.27
+Epoch 1450 ['*test'] top1_per_class accuracy is: [56.6 61.7 29.8 22.1 43.4 54.1 54.3 63.3 49.8 73.3], average: 50.84
+Epoch 1460 ['*test'] top1_per_class accuracy is: [46.2 57.6 43.  21.6 50.8 53.4 58.4 51.2 54.1 74.5], average: 51.08
+Epoch 1470 ['*test'] top1_per_class accuracy is: [46.6 67.  39.9 31.3 54.5 43.4 50.7 59.7 55.2 68.8], average: 51.71
+Epoch 1480 ['*test'] top1_per_class accuracy is: [45.9 51.  37.3 29.6 38.6 56.5 49.  67.2 54.8 72.8], average: 50.27
+Epoch 1490 ['*test'] top1_per_class accuracy is: [36.5 44.1 49.  31.9 39.7 34.6 47.8 70.2 53.8 81.2], average: 48.88
+Epoch 1500 ['*test'] top1_per_class accuracy is: [51.2 74.6 42.6 37.  46.7 38.2 40.9 57.3 57.8 62. ], average: 50.83
+Epoch 1510 ['*test'] top1_per_class accuracy is: [57.  58.9 41.5 23.1 51.7 43.6 51.3 52.5 57.2 73. ], average: 50.98
+Epoch 1520 ['*test'] top1_per_class accuracy is: [54.7 48.3 42.2 25.9 51.3 35.1 43.6 66.3 51.2 78.9], average: 49.75
+Epoch 1530 ['*test'] top1_per_class accuracy is: [43.6 72.1 28.7 27.5 40.7 47.7 63.  66.  54.7 66.9], average: 51.09
+Epoch 1540 ['*test'] top1_per_class accuracy is: [54.  58.1 38.1 22.7 62.5 43.6 47.  56.1 56.9 68. ], average: 50.7
+Epoch 1550 ['*test'] top1_per_class accuracy is: [44.  59.  32.3 41.8 63.9 37.7 51.8 54.3 47.8 68.5], average: 50.11
+Epoch 1560 ['*test'] top1_per_class accuracy is: [53.2 66.8 41.5 15.8 38.9 48.3 68.2 56.1 50.  68.4], average: 50.72
+Epoch 1570 ['*test'] top1_per_class accuracy is: [52.4 54.  29.  24.7 54.4 55.7 60.6 56.6 59.5 74.2], average: 52.11
+Epoch 1580 ['*test'] top1_per_class accuracy is: [52.9 62.8 38.3 27.1 50.8 47.5 54.8 64.9 49.6 66.9], average: 51.56
+Epoch 1590 ['*test'] top1_per_class accuracy is: [46.5 65.3 26.3 31.8 50.1 52.3 57.  57.3 57.  67.3], average: 51.09
+Epoch 1600 ['*test'] top1_per_class accuracy is: [48.2 66.4 41.9 25.8 42.1 39.7 69.9 48.4 57.7 71.1], average: 51.12

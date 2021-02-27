@@ -1,0 +1,988 @@
+['Test Stats '] top1_per_class accuracy is: [17.8  0.5  1.2 63.3  2.8 40.8 13.9  4.7 54.9  0.5], average: 20.04
+['Test Stats '] top1_per_class accuracy is: [35.1 41.4 12.1 75.8 24.3 31.4 41.8 34.9 69.6 28.5], average: 39.49
+['Test Stats '] top1_per_class accuracy is: [41.8 70.  26.7 57.5 39.3 38.9 53.1 53.6 71.  60.2], average: 51.21
+['Test Stats '] top1_per_class accuracy is: [51.7 77.7 37.6 50.3 37.2 40.2 64.  57.6 63.3 67.2], average: 54.68
+['Test Stats '] top1_per_class accuracy is: [59.3 80.7 43.1 36.3 33.4 45.7 67.6 63.7 58.6 71.4], average: 55.98
+['Test Stats '] top1_per_class accuracy is: [60.6 81.4 45.1 37.9 32.8 44.5 72.5 64.2 61.1 72. ], average: 57.21
+['Test Stats '] top1_per_class accuracy is: [61.8 83.5 47.  38.4 33.  48.6 71.3 64.2 62.4 72. ], average: 58.22
+['Test Stats '] top1_per_class accuracy is: [68.5 84.  44.3 39.6 34.5 47.6 74.5 66.3 60.  73.6], average: 59.29
+['Test Stats '] top1_per_class accuracy is: [72.7 84.  43.5 38.6 32.8 51.8 75.6 69.1 57.5 74.9], average: 60.05
+['Test Stats '] top1_per_class accuracy is: [73.4 85.  44.4 37.3 30.2 52.2 77.  68.9 57.8 71.3], average: 59.75
+['Test Stats '] top1_per_class accuracy is: [74.2 84.8 44.3 38.6 30.9 50.  78.3 70.  57.9 72.9], average: 60.19
+['Test Stats '] top1_per_class accuracy is: [75.4 86.6 47.7 38.9 30.2 53.4 77.7 70.6 60.3 73. ], average: 61.38
+['Test Stats '] top1_per_class accuracy is: [74.8 88.3 48.5 43.6 28.6 52.7 77.5 70.1 59.  72. ], average: 61.51
+['Test Stats '] top1_per_class accuracy is: [75.4 87.6 45.4 38.1 29.8 53.7 80.  71.7 58.5 77.5], average: 61.77
+['Test Stats '] top1_per_class accuracy is: [76.7 87.7 48.2 39.4 32.9 53.6 79.4 72.  59.8 76.3], average: 62.6
+['Test Stats '] top1_per_class accuracy is: [77.1 88.5 47.9 39.3 31.3 57.5 78.7 70.5 57.8 74.7], average: 62.33
+['Test Stats '] top1_per_class accuracy is: [75.2 87.5 48.1 37.3 32.  58.9 79.9 70.8 61.5 81.8], average: 63.3
+['Test Stats '] top1_per_class accuracy is: [78.  87.6 47.7 36.7 33.4 59.1 79.  70.8 62.3 80.5], average: 63.51
+['Test Stats '] top1_per_class accuracy is: [76.5 88.9 48.1 36.  36.7 60.1 80.1 70.7 65.8 79. ], average: 64.19
+['Test Stats '] top1_per_class accuracy is: [78.6 88.6 47.6 38.6 38.4 59.3 81.2 70.8 62.5 80.9], average: 64.65
+['Test Stats '] top1_per_class accuracy is: [78.8 90.4 48.3 38.9 37.6 60.2 81.1 72.  62.5 77.8], average: 64.76
+['Test Stats '] top1_per_class accuracy is: [77.8 87.9 50.  37.2 36.  62.6 80.2 72.5 65.5 82.1], average: 65.18
+['Test Stats '] top1_per_class accuracy is: [78.7 88.9 48.4 34.3 37.7 59.1 82.2 72.4 68.8 81.4], average: 65.19
+['Test Stats '] top1_per_class accuracy is: [79.5 90.2 48.7 37.  41.4 56.4 82.8 72.6 68.5 80.6], average: 65.77
+['Test Stats '] top1_per_class accuracy is: [78.5 90.7 49.  37.5 40.2 61.1 81.1 71.6 70.8 80.9], average: 66.14
+['Test Stats '] top1_per_class accuracy is: [78.8 90.7 48.9 33.6 41.8 61.1 82.9 72.5 72.6 83.2], average: 66.61
+['Test Stats '] top1_per_class accuracy is: [77.6 90.9 51.1 36.9 43.2 59.9 82.7 73.  71.3 84.1], average: 67.07
+['Test Stats '] top1_per_class accuracy is: [79.6 90.9 50.2 34.3 47.9 63.1 81.3 71.6 70.9 83.8], average: 67.36
+['Test Stats '] top1_per_class accuracy is: [77.7 91.6 48.9 36.9 52.1 63.1 81.2 72.8 71.5 84.1], average: 67.99
+['Test Stats '] top1_per_class accuracy is: [76.6 91.5 48.5 37.4 54.  62.6 82.8 70.6 74.2 85.1], average: 68.33
+['Test Stats '] top1_per_class accuracy is: [77.5 91.8 46.1 40.6 55.5 63.6 82.1 71.3 74.1 85.5], average: 68.81
+['Test Stats '] top1_per_class accuracy is: [79.7 91.8 48.  42.5 59.3 61.5 82.  69.8 75.7 84.8], average: 69.51
+['Test Stats '] top1_per_class accuracy is: [76.8 92.6 48.1 40.4 57.8 63.6 83.  71.9 76.  85.9], average: 69.61
+['Test Stats '] top1_per_class accuracy is: [77.6 91.4 46.2 41.1 54.8 66.2 82.2 72.6 76.9 85.6], average: 69.46
+['Test Stats '] top1_per_class accuracy is: [77.2 92.8 44.3 39.  57.2 66.7 85.2 71.8 78.9 85.2], average: 69.83
+['Test Stats '] top1_per_class accuracy is: [78.2 93.5 48.4 41.4 59.9 64.4 83.  70.2 77.5 84.6], average: 70.11
+['Test Stats '] top1_per_class accuracy is: [77.5 92.9 48.3 41.8 61.9 62.6 82.9 71.1 80.7 85.6], average: 70.53
+['Test Stats '] top1_per_class accuracy is: [78.1 92.5 47.8 42.5 62.2 65.1 82.7 72.4 77.7 85.7], average: 70.67
+['Test Stats '] top1_per_class accuracy is: [77.6 92.4 47.9 42.3 62.8 65.5 82.3 71.6 78.  87.2], average: 70.76
+['Test Stats '] top1_per_class accuracy is: [77.  92.  48.1 39.4 65.4 66.2 83.6 70.1 78.2 87.9], average: 70.79
+['Test Stats '] top1_per_class accuracy is: [77.5 92.6 47.2 42.9 63.7 66.3 82.9 71.2 75.6 86.4], average: 70.63
+['Test Stats '] top1_per_class accuracy is: [79.2 92.  46.2 45.6 63.5 67.  83.7 71.7 75.  87.6], average: 71.15
+['Test Stats '] top1_per_class accuracy is: [79.4 92.7 45.9 45.6 62.7 69.7 82.3 72.1 74.3 88.2], average: 71.29
+['Test Stats '] top1_per_class accuracy is: [78.  92.4 43.7 44.  64.4 68.4 85.1 72.3 77.5 87.8], average: 71.36
+['Test Stats '] top1_per_class accuracy is: [78.4 92.3 42.7 44.2 65.  72.9 82.8 71.9 77.2 89. ], average: 71.64
+['Test Stats '] top1_per_class accuracy is: [80.8 92.2 44.5 49.5 63.2 68.5 84.5 72.1 77.  87.5], average: 71.98
+['Test Stats '] top1_per_class accuracy is: [79.7 92.4 43.8 48.4 66.7 66.9 85.2 72.5 75.8 88.3], average: 71.97
+['Test Stats '] top1_per_class accuracy is: [80.8 92.5 42.9 45.5 61.8 66.5 86.8 73.2 73.7 88.2], average: 71.19
+['Test Stats '] top1_per_class accuracy is: [80.9 92.  44.6 45.6 64.9 67.8 85.3 72.1 73.7 88.2], average: 71.51
+['Test Stats '] top1_per_class accuracy is: [78.2 92.7 44.3 46.5 66.2 70.1 83.7 73.9 75.5 89.3], average: 72.04
+['Test Stats '] top1_per_class accuracy is: [79.  92.5 44.4 47.6 64.3 68.4 85.6 73.  74.7 89. ], average: 71.85
+['Test Stats '] top1_per_class accuracy is: [81.6 91.6 43.8 48.2 65.1 68.9 84.3 74.1 70.8 89.6], average: 71.8
+['Test Stats '] top1_per_class accuracy is: [78.7 92.8 43.5 47.  65.  70.4 85.4 73.1 75.8 88.6], average: 72.03
+['Test Stats '] top1_per_class accuracy is: [79.4 92.7 43.8 48.5 66.7 66.7 85.8 72.3 73.2 89.7], average: 71.88
+['Test Stats '] top1_per_class accuracy is: [77.9 91.7 45.9 51.3 67.7 64.9 85.3 74.2 75.7 89.7], average: 72.43
+['Test Stats '] top1_per_class accuracy is: [79.6 92.  43.  50.  65.8 67.9 86.7 72.7 73.3 89.9], average: 72.09
+['Test Stats '] top1_per_class accuracy is: [79.2 93.  42.6 49.6 64.4 69.1 87.  73.2 72.9 90. ], average: 72.1
+['Test Stats '] top1_per_class accuracy is: [80.1 92.8 43.1 52.5 66.3 66.7 86.1 73.4 73.4 90.9], average: 72.53
+['Test Stats '] top1_per_class accuracy is: [81.  93.3 43.4 51.6 67.3 66.6 86.8 73.1 71.5 89.9], average: 72.45
+['Test Stats '] top1_per_class accuracy is: [79.  92.7 44.1 50.7 66.2 66.9 87.8 73.1 73.9 89.2], average: 72.36
+['Test Stats '] top1_per_class accuracy is: [79.7 92.4 43.4 50.1 65.9 69.1 86.7 72.6 74.6 90.1], average: 72.46
+['Test Stats '] top1_per_class accuracy is: [78.2 93.5 43.2 49.9 67.  65.1 88.  72.8 76.8 90.1], average: 72.46
+['Test Stats '] top1_per_class accuracy is: [79.2 93.3 43.1 50.  65.1 67.2 87.6 74.  76.4 89.6], average: 72.55
+['Test Stats '] top1_per_class accuracy is: [78.  92.8 42.3 51.6 66.6 67.5 87.9 73.8 75.9 90.4], average: 72.68
+['Test Stats '] top1_per_class accuracy is: [79.6 93.2 43.4 47.3 66.1 67.7 88.9 73.8 75.4 90.3], average: 72.57
+['Test Stats '] top1_per_class accuracy is: [81.6 93.9 43.9 53.2 64.4 63.9 88.5 75.1 75.7 90.7], average: 73.09
+['Test Stats '] top1_per_class accuracy is: [80.4 93.9 44.1 51.3 64.1 66.1 87.9 74.4 76.9 91.2], average: 73.03
+['Test Stats '] top1_per_class accuracy is: [79.6 93.8 44.9 49.7 67.2 67.9 87.2 75.  77.6 90.5], average: 73.34
+['Test Stats '] top1_per_class accuracy is: [80.  94.3 42.7 50.6 65.  68.7 87.1 73.9 76.1 91.1], average: 72.95
+['Test Stats '] top1_per_class accuracy is: [79.9 94.3 42.5 48.3 64.1 68.8 86.8 75.6 76.5 90.5], average: 72.73
+['Test Stats '] top1_per_class accuracy is: [80.9 93.9 43.2 51.8 67.5 64.9 87.5 74.8 74.5 91.4], average: 73.04
+['Test Stats '] top1_per_class accuracy is: [78.6 94.1 41.1 48.8 67.4 66.9 90.3 74.2 75.2 90.9], average: 72.75
+['Test Stats '] top1_per_class accuracy is: [80.  94.4 40.6 51.8 65.8 66.2 89.5 74.8 74.2 91.8], average: 72.91
+['Test Stats '] top1_per_class accuracy is: [78.9 94.1 40.4 51.6 63.5 67.4 89.8 74.4 74.2 90.5], average: 72.48
+['Test Stats '] top1_per_class accuracy is: [80.4 93.8 42.3 53.4 65.5 64.7 89.1 74.4 72.9 91.7], average: 72.82
+['Test Stats '] top1_per_class accuracy is: [80.5 93.6 42.7 51.7 66.9 65.7 89.4 74.1 71.1 90. ], average: 72.57
+['Test Stats '] top1_per_class accuracy is: [79.6 93.8 41.1 52.3 64.5 67.1 88.9 73.7 75.6 90.5], average: 72.71
+['Test Stats '] top1_per_class accuracy is: [80.  94.  41.7 52.2 67.5 66.9 88.5 74.2 77.3 91.7], average: 73.4
+['Test Stats '] top1_per_class accuracy is: [80.  94.1 42.2 49.7 65.3 68.  90.9 73.7 76.8 91.8], average: 73.25
+['Test Stats '] top1_per_class accuracy is: [79.6 94.4 43.6 51.2 66.6 67.8 90.4 72.9 77.3 90.6], average: 73.44
+['Test Stats '] top1_per_class accuracy is: [80.9 94.5 40.9 51.  66.5 67.3 91.4 73.5 77.2 90.6], average: 73.38
+['Test Stats '] top1_per_class accuracy is: [80.9 94.2 44.8 51.1 67.5 69.3 89.1 74.5 75.1 91.7], average: 73.82
+['Test Stats '] top1_per_class accuracy is: [80.1 93.6 46.5 51.7 66.4 68.8 88.1 75.3 74.5 92.2], average: 73.72
+['Test Stats '] top1_per_class accuracy is: [81.3 93.8 45.2 50.6 66.3 68.6 88.3 74.7 76.3 91.5], average: 73.66
+['Test Stats '] top1_per_class accuracy is: [81.5 94.  44.  52.5 65.9 68.1 89.2 74.1 75.8 92.8], average: 73.79
+['Test Stats '] top1_per_class accuracy is: [80.1 93.5 44.3 52.2 66.7 67.5 88.1 74.4 79.8 92.6], average: 73.92
+['Test Stats '] top1_per_class accuracy is: [81.  92.7 43.5 52.8 68.1 66.9 89.7 73.7 79.  92.4], average: 73.98
+['Test Stats '] top1_per_class accuracy is: [82.4 93.4 45.2 52.8 68.  64.8 90.  73.8 77.6 92.1], average: 74.01
+['Test Stats '] top1_per_class accuracy is: [83.  93.8 45.5 52.6 67.1 66.  89.5 74.3 75.6 92.2], average: 73.96
+['Test Stats '] top1_per_class accuracy is: [82.3 94.  44.2 54.1 64.2 66.6 88.9 74.7 77.8 91.8], average: 73.86
+['Test Stats '] top1_per_class accuracy is: [81.8 93.7 44.2 52.6 67.1 66.2 89.5 74.4 79.2 92.5], average: 74.12
+['Test Stats '] top1_per_class accuracy is: [81.4 94.1 45.1 54.3 66.8 64.6 90.5 74.8 75.3 91.7], average: 73.86
+['Test Stats '] top1_per_class accuracy is: [80.9 94.2 43.6 53.5 67.1 66.4 89.7 74.4 77.7 92.6], average: 74.01
+['Test Stats '] top1_per_class accuracy is: [81.5 94.5 47.3 53.7 68.2 67.5 88.8 75.1 77.5 92. ], average: 74.61
+['Test Stats '] top1_per_class accuracy is: [82.6 93.8 46.4 54.4 66.4 67.9 90.3 74.2 73.7 93. ], average: 74.27
+['Test Stats '] top1_per_class accuracy is: [82.  94.7 45.8 51.9 68.3 69.  89.  74.7 73.6 92.6], average: 74.16
+['Test Stats '] top1_per_class accuracy is: [80.8 94.6 47.7 51.1 68.  68.  89.3 74.6 75.9 92.2], average: 74.22
+['Test Stats '] top1_per_class accuracy is: [81.4 94.8 46.9 52.3 67.8 66.4 89.6 75.3 75.7 92.2], average: 74.24
+['Test Stats '] top1_per_class accuracy is: [83.7 94.8 46.5 52.4 66.  67.9 89.8 74.2 74.5 91.7], average: 74.15
+['Test Stats '] top1_per_class accuracy is: [82.2 94.7 47.7 54.1 64.9 66.8 88.1 75.2 75.  93.1], average: 74.18
+['Test Stats '] top1_per_class accuracy is: [83.3 95.  46.5 53.  65.3 64.8 89.9 75.6 74.  92. ], average: 73.94
+['Test Stats '] top1_per_class accuracy is: [83.3 94.5 46.2 52.7 66.3 67.1 89.2 75.5 71.6 91.8], average: 73.82
+['Test Stats '] top1_per_class accuracy is: [83.3 93.6 46.  53.7 64.6 67.7 88.9 75.7 71.3 92.5], average: 73.73
+['Test Stats '] top1_per_class accuracy is: [81.3 94.6 45.3 56.7 66.6 66.4 89.  75.4 72.3 92.7], average: 74.03
+['Test Stats '] top1_per_class accuracy is: [81.7 93.8 44.5 56.8 68.3 66.4 89.  75.4 76.1 92.7], average: 74.47
+['Test Stats '] top1_per_class accuracy is: [83.7 94.3 47.4 55.5 64.6 66.6 89.3 75.5 74.7 92.4], average: 74.4
+['Test Stats '] top1_per_class accuracy is: [83.1 94.7 48.4 55.5 67.9 66.9 87.  75.3 75.3 92.2], average: 74.63
+['Test Stats '] top1_per_class accuracy is: [83.8 94.1 46.9 54.5 67.1 67.6 89.8 76.1 77.2 93.5], average: 75.06
+['Test Stats '] top1_per_class accuracy is: [86.1 94.  48.1 52.4 66.8 67.4 89.9 76.  74.9 92.6], average: 74.82
+['Test Stats '] top1_per_class accuracy is: [84.  94.2 47.1 56.6 66.6 64.  89.9 76.4 74.1 93. ], average: 74.59
+['Test Stats '] top1_per_class accuracy is: [84.8 95.4 48.3 53.2 69.2 67.3 88.9 76.3 72.5 92.1], average: 74.8
+['Test Stats '] top1_per_class accuracy is: [83.5 95.1 49.6 53.7 67.4 66.8 89.1 76.8 71.4 92.2], average: 74.56
+['Test Stats '] top1_per_class accuracy is: [85.1 94.6 50.4 54.8 67.4 65.4 88.  75.9 67.  92.8], average: 74.14
+['Test Stats '] top1_per_class accuracy is: [83.9 94.1 49.  54.1 68.2 65.2 90.5 76.2 68.  92.3], average: 74.15
+['Test Stats '] top1_per_class accuracy is: [83.9 95.1 49.9 53.3 68.2 67.3 88.8 76.3 70.3 93.1], average: 74.62
+['Test Stats '] top1_per_class accuracy is: [83.9 94.7 51.3 54.6 67.6 65.6 88.7 75.6 69.9 93. ], average: 74.49
+['Test Stats '] top1_per_class accuracy is: [84.3 95.1 50.6 55.4 67.8 64.6 89.4 75.9 71.5 93.3], average: 74.79
+['Test Stats '] top1_per_class accuracy is: [84.5 94.  49.5 53.3 68.3 66.1 90.2 76.  72.1 93.1], average: 74.71
+['Test Stats '] top1_per_class accuracy is: [84.6 95.4 49.9 56.5 68.1 65.1 89.2 76.7 72.6 91.9], average: 75.0
+['Test Stats '] top1_per_class accuracy is: [85.5 94.8 48.8 54.6 67.  67.1 89.4 76.5 69.8 92.6], average: 74.61
+['Test Stats '] top1_per_class accuracy is: [85.8 94.8 49.4 54.1 68.  67.3 90.2 76.3 67.  92.6], average: 74.55
+['Test Stats '] top1_per_class accuracy is: [85.2 95.  49.8 55.9 66.9 65.4 89.8 76.5 70.4 92.3], average: 74.72
+['Test Stats '] top1_per_class accuracy is: [86.3 95.4 48.4 53.6 67.7 64.7 90.4 77.4 71.6 91.8], average: 74.73
+['Test Stats '] top1_per_class accuracy is: [85.3 95.3 48.5 52.5 67.1 67.1 90.6 76.6 66.2 92.8], average: 74.2
+['Test Stats '] top1_per_class accuracy is: [84.8 95.3 48.2 51.9 69.3 65.9 91.1 76.7 72.5 92.3], average: 74.8
+['Test Stats '] top1_per_class accuracy is: [85.4 95.  48.7 54.5 69.4 65.1 90.3 77.2 73.1 93. ], average: 75.17
+['Test Stats '] top1_per_class accuracy is: [84.1 95.3 49.7 51.6 67.8 68.8 90.6 77.  75.6 92.6], average: 75.31
+['Test Stats '] top1_per_class accuracy is: [84.  94.7 48.7 50.6 67.7 67.9 91.6 76.6 74.7 92.9], average: 74.94
+['Test Stats '] top1_per_class accuracy is: [84.5 94.7 49.6 54.2 69.2 67.3 90.1 76.8 75.1 93.6], average: 75.51
+['Test Stats '] top1_per_class accuracy is: [85.7 95.4 49.4 52.2 69.6 68.  91.1 75.7 75.3 92.5], average: 75.49
+['Test Stats '] top1_per_class accuracy is: [85.  95.3 49.8 51.7 69.3 67.7 91.2 77.  73.1 92.8], average: 75.29
+['Test Stats '] top1_per_class accuracy is: [85.  95.1 49.1 56.1 68.2 67.9 88.4 76.5 74.5 93.6], average: 75.44
+['Test Stats '] top1_per_class accuracy is: [84.6 95.1 50.1 53.4 69.4 68.4 88.5 76.9 77.  93.8], average: 75.72
+['Test Stats '] top1_per_class accuracy is: [85.5 94.8 51.3 51.8 68.1 69.3 88.4 76.9 77.2 93.3], average: 75.66
+['Test Stats '] top1_per_class accuracy is: [85.3 94.7 50.6 56.1 68.7 67.6 88.6 75.8 76.6 93.6], average: 75.76
+['Test Stats '] top1_per_class accuracy is: [85.  94.3 51.2 51.6 67.1 69.3 88.5 75.5 75.6 94.1], average: 75.22
+['Test Stats '] top1_per_class accuracy is: [85.  95.2 51.  52.9 69.1 65.9 90.6 75.3 76.9 92.7], average: 75.46
+['Test Stats '] top1_per_class accuracy is: [86.2 95.7 47.6 53.  68.1 65.9 91.5 75.1 76.2 92.7], average: 75.2
+['Test Stats '] top1_per_class accuracy is: [83.5 95.5 47.2 54.7 67.5 63.3 92.1 76.2 76.8 93.3], average: 75.01
+['Test Stats '] top1_per_class accuracy is: [84.1 95.  47.6 51.2 68.9 67.1 91.5 77.3 77.2 93.1], average: 75.3
+['Test Stats '] top1_per_class accuracy is: [84.8 95.1 49.7 54.4 67.5 64.8 91.4 76.2 77.1 92. ], average: 75.3
+['Test Stats '] top1_per_class accuracy is: [86.1 94.3 50.4 53.6 69.9 66.4 91.6 76.9 76.7 93.3], average: 75.92
+['Test Stats '] top1_per_class accuracy is: [85.8 93.6 52.4 53.1 69.6 66.7 91.2 78.  76.  93.8], average: 76.02
+['Test Stats '] top1_per_class accuracy is: [84.7 94.7 53.1 52.8 69.4 68.2 91.2 76.3 77.  93.4], average: 76.08
+['Test Stats '] top1_per_class accuracy is: [85.  94.6 54.1 54.  69.7 67.4 91.2 78.2 79.  93.6], average: 76.68
+['Test Stats '] top1_per_class accuracy is: [85.5 95.4 53.6 56.6 69.9 67.1 90.8 77.9 78.2 93.3], average: 76.83
+['Test Stats '] top1_per_class accuracy is: [86.4 95.5 53.9 54.9 68.5 66.7 91.3 76.9 78.5 93.3], average: 76.59
+['Test Stats '] top1_per_class accuracy is: [85.7 95.4 52.3 56.9 67.4 66.8 91.1 77.3 79.7 93.8], average: 76.64
+['Test Stats '] top1_per_class accuracy is: [85.9 95.  54.  54.4 69.  66.5 91.  77.7 78.8 94.3], average: 76.66
+['Test Stats '] top1_per_class accuracy is: [85.4 95.  53.4 56.  70.7 66.1 90.7 78.1 78.8 93.7], average: 76.79
+['Test Stats '] top1_per_class accuracy is: [85.8 95.4 51.4 56.1 71.7 67.3 90.8 76.5 81.7 93.2], average: 76.99
+['Test Stats '] top1_per_class accuracy is: [85.4 95.3 54.7 54.1 72.1 68.8 90.1 78.  78.7 94. ], average: 77.12
+['Test Stats '] top1_per_class accuracy is: [85.7 95.1 53.5 53.5 68.3 67.8 92.5 77.3 76.6 93.9], average: 76.42
+['Test Stats '] top1_per_class accuracy is: [85.7 95.2 53.2 54.8 69.5 67.3 92.4 76.9 76.3 93.3], average: 76.46
+['Test Stats '] top1_per_class accuracy is: [86.  95.3 52.3 55.4 69.9 67.3 92.3 77.5 78.1 93.3], average: 76.74
+['Test Stats '] top1_per_class accuracy is: [85.9 94.8 52.2 55.2 70.  68.3 92.  78.  76.9 93.3], average: 76.66
+['Test Stats '] top1_per_class accuracy is: [87.4 95.5 51.3 56.2 68.8 68.3 92.1 77.1 76.9 93. ], average: 76.66
+['Test Stats '] top1_per_class accuracy is: [86.6 95.1 52.7 54.9 70.  67.7 91.5 78.  79.2 93.7], average: 76.94
+['Test Stats '] top1_per_class accuracy is: [87.1 94.5 53.1 55.1 70.4 66.5 91.9 77.5 75.7 93.6], average: 76.54
+['Test Stats '] top1_per_class accuracy is: [87.2 94.4 52.2 55.  70.6 67.5 91.  77.9 74.3 94.3], average: 76.44
+['Test Stats '] top1_per_class accuracy is: [86.  95.2 51.9 52.9 70.4 69.6 92.1 77.7 77.9 93.7], average: 76.74
+['Test Stats '] top1_per_class accuracy is: [87.1 96.2 51.3 55.7 71.  67.6 92.1 77.6 77.8 93.1], average: 76.95
+['Test Stats '] top1_per_class accuracy is: [86.  95.5 51.  53.7 70.9 68.  92.8 76.4 79.6 92.8], average: 76.67
+['Test Stats '] top1_per_class accuracy is: [86.4 95.5 52.6 52.8 72.2 68.5 92.  77.6 80.9 93.4], average: 77.19
+['Test Stats '] top1_per_class accuracy is: [86.3 95.  52.9 53.3 72.9 70.2 91.9 77.8 80.1 94. ], average: 77.44
+['Test Stats '] top1_per_class accuracy is: [86.4 95.8 54.4 56.2 72.5 68.  91.  77.3 79.7 92.6], average: 77.39
+['Test Stats '] top1_per_class accuracy is: [87.  96.4 52.9 54.3 71.4 70.4 92.5 78.5 76.6 92.6], average: 77.26
+['Test Stats '] top1_per_class accuracy is: [87.5 96.2 52.9 56.7 71.1 70.6 91.5 79.6 76.2 92.9], average: 77.52
+['Test Stats '] top1_per_class accuracy is: [88.1 95.1 52.1 55.7 68.8 70.1 92.8 79.4 75.7 93.7], average: 77.15
+['Test Stats '] top1_per_class accuracy is: [87.  95.4 52.8 54.8 72.5 68.3 93.1 78.5 77.4 94.1], average: 77.39
+['Test Stats '] top1_per_class accuracy is: [86.9 96.1 53.6 54.5 72.9 68.5 93.6 78.2 77.5 93.1], average: 77.49
+['Test Stats '] top1_per_class accuracy is: [87.2 95.8 52.4 54.2 70.4 70.9 92.9 79.7 76.9 92.1], average: 77.25
+['Test Stats '] top1_per_class accuracy is: [87.9 95.7 52.8 53.7 72.  70.7 92.5 79.6 78.8 92.8], average: 77.65
+['Test Stats '] top1_per_class accuracy is: [86.2 94.5 53.8 54.9 74.8 70.8 92.2 79.2 80.1 94.4], average: 78.09
+['Test Stats '] top1_per_class accuracy is: [86.6 96.1 52.7 55.4 70.1 71.3 91.1 79.1 79.  93.6], average: 77.5
+['Test Stats '] top1_per_class accuracy is: [87.  95.6 52.2 55.8 71.9 69.6 91.5 78.6 78.5 93.7], average: 77.44
+['Test Stats '] top1_per_class accuracy is: [86.3 95.8 53.5 54.5 72.9 69.8 91.8 79.4 78.9 94.2], average: 77.71
+['Test Stats '] top1_per_class accuracy is: [88.5 95.9 54.  52.8 71.  71.3 91.1 78.8 78.7 92.7], average: 77.48
+['Test Stats '] top1_per_class accuracy is: [87.8 95.2 54.7 54.1 74.8 70.5 90.5 78.5 79.4 94.1], average: 77.96
+['Test Stats '] top1_per_class accuracy is: [87.5 96.4 55.2 55.7 73.4 69.8 92.6 76.7 79.3 92.2], average: 77.88
+['Test Stats '] top1_per_class accuracy is: [87.2 95.4 55.8 57.  73.  69.  91.  78.  80.1 93.2], average: 77.97
+['Test Stats '] top1_per_class accuracy is: [86.7 95.5 54.5 54.6 75.6 71.2 90.5 77.1 79.7 94.5], average: 77.99
+['Test Stats '] top1_per_class accuracy is: [86.4 95.1 55.  54.8 75.9 70.1 92.1 78.5 79.7 94.1], average: 78.17
+['Test Stats '] top1_per_class accuracy is: [86.  95.4 54.7 56.3 75.4 68.7 92.3 78.5 81.2 94.3], average: 78.28
+['Test Stats '] top1_per_class accuracy is: [88.8 95.8 55.5 53.3 70.9 68.8 92.7 80.  79.8 94. ], average: 77.96
+['Test Stats '] top1_per_class accuracy is: [89.3 96.2 54.3 54.8 73.3 70.  92.9 79.2 78.3 92.3], average: 78.06
+['Test Stats '] top1_per_class accuracy is: [89.2 95.7 52.9 55.5 73.9 69.7 93.6 79.3 77.4 93.7], average: 78.09
+['Test Stats '] top1_per_class accuracy is: [88.6 96.2 53.2 54.7 74.2 71.1 93.4 79.4 76.6 93.8], average: 78.12
+['Test Stats '] top1_per_class accuracy is: [87.7 95.8 53.7 56.8 74.  70.2 93.  79.3 75.5 93.8], average: 77.98
+['Test Stats '] top1_per_class accuracy is: [88.9 95.7 54.2 54.3 77.5 69.8 93.3 78.5 73.1 93.1], average: 77.84
+['Test Stats '] top1_per_class accuracy is: [87.6 95.2 54.5 55.8 77.2 70.3 93.  79.3 77.6 93.6], average: 78.41
+['Test Stats '] top1_per_class accuracy is: [87.3 94.9 53.4 57.9 76.3 68.  93.  79.4 75.2 94.4], average: 77.98
+['Test Stats '] top1_per_class accuracy is: [88.5 95.3 53.9 57.9 75.5 67.7 93.1 79.8 73.6 93.8], average: 77.91
+['Test Stats '] top1_per_class accuracy is: [87.8 96.  53.6 59.  71.9 67.7 92.1 80.  73.1 93.2], average: 77.44
+['Test Stats '] top1_per_class accuracy is: [88.  95.3 52.9 58.3 73.2 67.9 92.7 79.  74.  93.5], average: 77.48
+['Test Stats '] top1_per_class accuracy is: [88.9 94.9 52.  58.7 74.6 68.7 92.5 79.4 74.6 94.4], average: 77.87
+['Test Stats '] top1_per_class accuracy is: [89.5 94.9 52.8 56.1 73.1 69.6 92.9 79.2 75.6 94.4], average: 77.81
+['Test Stats '] top1_per_class accuracy is: [88.7 95.9 53.9 53.7 73.1 71.2 92.6 80.2 75.3 93.6], average: 77.82
+['Test Stats '] top1_per_class accuracy is: [87.6 95.9 53.7 53.4 75.4 70.4 93.3 78.3 79.6 94.2], average: 78.18
+['Test Stats '] top1_per_class accuracy is: [87.6 95.7 53.2 55.8 74.1 70.4 92.9 77.7 81.3 94.1], average: 78.28
+['Test Stats '] top1_per_class accuracy is: [88.2 94.7 52.7 58.8 73.2 70.3 93.2 77.7 80.4 94.2], average: 78.34
+['Test Stats '] top1_per_class accuracy is: [87.3 95.5 52.4 58.7 75.9 70.6 93.  77.7 78.6 94.1], average: 78.38
+['Test Stats '] top1_per_class accuracy is: [88.2 96.1 54.4 59.4 74.6 69.9 92.7 80.5 75.4 93.4], average: 78.46
+['Test Stats '] top1_per_class accuracy is: [87.6 94.9 53.6 58.9 75.2 68.7 93.5 80.5 79.8 94.1], average: 78.68
+['Test Stats '] top1_per_class accuracy is: [87.6 95.1 54.  56.2 75.  72.4 92.3 81.  81.4 94.4], average: 78.94
+['Test Stats '] top1_per_class accuracy is: [88.8 95.5 54.2 56.5 75.1 70.6 93.1 79.3 80.8 93.9], average: 78.78
+['Test Stats '] top1_per_class accuracy is: [88.  95.5 52.2 58.4 76.8 68.2 92.8 79.9 80.9 94.2], average: 78.69
+['Test Stats '] top1_per_class accuracy is: [89.2 95.6 55.1 57.3 76.2 67.2 94.1 79.1 81.5 94.1], average: 78.94
+['Test Stats '] top1_per_class accuracy is: [89.  95.  52.8 56.5 77.6 70.4 93.4 79.8 80.8 94.1], average: 78.94
+['Test Stats '] top1_per_class accuracy is: [88.9 95.1 55.9 57.  76.4 69.1 92.9 80.3 80.  93.7], average: 78.93
+['Test Stats '] top1_per_class accuracy is: [88.4 95.5 52.7 58.9 74.  67.8 93.8 80.8 79.3 93.3], average: 78.45
+['Test Stats '] top1_per_class accuracy is: [88.9 95.  51.8 58.1 75.  68.9 92.7 81.2 79.9 93.1], average: 78.46
+['Test Stats '] top1_per_class accuracy is: [88.6 95.1 51.7 56.1 77.2 69.7 93.1 80.3 79.3 93.2], average: 78.43
+['Test Stats '] top1_per_class accuracy is: [88.6 95.6 53.1 56.6 75.  70.3 93.2 81.1 79.2 93.5], average: 78.62
+['Test Stats '] top1_per_class accuracy is: [88.8 95.4 52.6 55.8 75.9 68.3 93.3 80.2 80.1 93.6], average: 78.4
+['Test Stats '] top1_per_class accuracy is: [89.1 95.3 53.2 58.  73.9 69.6 92.6 81.4 79.3 93.6], average: 78.6
+['Test Stats '] top1_per_class accuracy is: [90.  94.9 53.6 57.4 74.8 68.4 93.2 80.9 79.4 93.9], average: 78.65
+['Test Stats '] top1_per_class accuracy is: [88.6 95.4 52.9 59.7 76.6 67.9 92.3 82.  78.5 94.6], average: 78.85
+['Test Stats '] top1_per_class accuracy is: [87.3 95.4 52.9 58.1 74.6 69.7 94.5 81.  77.6 94.6], average: 78.57
+['Test Stats '] top1_per_class accuracy is: [88.8 95.1 54.3 57.7 75.7 69.1 93.7 81.7 76.1 94.9], average: 78.71
+['Test Stats '] top1_per_class accuracy is: [88.2 95.3 55.2 60.7 76.5 67.  94.4 81.7 78.7 94.1], average: 79.18
+['Test Stats '] top1_per_class accuracy is: [89.2 95.5 54.5 58.7 76.6 67.6 93.5 82.  79.4 94.5], average: 79.15
+['Test Stats '] top1_per_class accuracy is: [89.8 96.3 53.9 58.3 75.4 68.7 94.1 80.3 81.7 93. ], average: 79.15
+['Test Stats '] top1_per_class accuracy is: [89.6 95.4 54.9 59.5 75.5 69.3 93.3 81.2 83.5 94.2], average: 79.64
+['Test Stats '] top1_per_class accuracy is: [90.4 94.8 54.6 57.4 77.  70.4 93.7 81.2 81.7 94.6], average: 79.58
+['Test Stats '] top1_per_class accuracy is: [89.2 95.3 53.5 54.4 78.1 70.7 94.2 81.5 80.2 94. ], average: 79.11
+['Test Stats '] top1_per_class accuracy is: [89.6 95.7 52.7 56.  78.  69.7 93.3 81.7 79.3 94.2], average: 79.02
+['Test Stats '] top1_per_class accuracy is: [89.6 95.  54.3 55.3 76.4 71.  93.  81.1 80.1 94.1], average: 78.99
+['Test Stats '] top1_per_class accuracy is: [90.6 95.1 55.4 57.5 77.3 70.4 93.3 81.  78.9 94.6], average: 79.41
+['Test Stats '] top1_per_class accuracy is: [89.6 95.  55.1 56.6 78.6 71.4 93.8 79.8 79.9 94.6], average: 79.44
+['Test Stats '] top1_per_class accuracy is: [89.5 95.8 54.8 57.7 77.6 70.9 92.9 81.3 80.5 94.2], average: 79.52
+['Test Stats '] top1_per_class accuracy is: [89.6 95.6 55.6 57.7 76.4 72.  92.  81.5 80.3 94.1], average: 79.48
+['Test Stats '] top1_per_class accuracy is: [89.4 95.5 55.  58.1 77.4 70.4 93.3 81.2 79.8 94.1], average: 79.42
+['Test Stats '] top1_per_class accuracy is: [89.2 95.1 53.9 56.  78.7 71.7 93.4 81.  79.7 94.3], average: 79.3
+['Test Stats '] top1_per_class accuracy is: [89.7 95.7 54.4 59.7 77.4 71.7 93.6 81.1 81.9 93.8], average: 79.9
+['Test Stats '] top1_per_class accuracy is: [89.3 94.9 56.  60.5 78.  70.8 93.  81.6 83.4 94.8], average: 80.23
+['Test Stats '] top1_per_class accuracy is: [91.  95.3 56.5 58.4 75.6 71.2 93.7 81.3 80.1 94. ], average: 79.71
+['Test Stats '] top1_per_class accuracy is: [91.6 95.8 57.6 59.5 75.4 70.  92.9 81.7 78.6 94.2], average: 79.73
+['Test Stats '] top1_per_class accuracy is: [90.6 96.  56.5 56.4 77.2 72.9 93.1 80.9 80.6 93.4], average: 79.76
+['Test Stats '] top1_per_class accuracy is: [91.2 95.6 58.1 56.5 76.8 70.3 93.1 80.8 80.6 93.7], average: 79.67
+['Test Stats '] top1_per_class accuracy is: [91.3 95.8 55.8 59.7 76.9 69.5 92.5 80.4 81.2 94.1], average: 79.72
+['Test Stats '] top1_per_class accuracy is: [90.7 95.9 54.3 58.1 76.8 70.8 93.3 80.5 81.3 93.9], average: 79.56
+['Test Stats '] top1_per_class accuracy is: [90.2 96.3 56.9 59.2 76.6 70.1 92.  81.  82.1 93.7], average: 79.81
+['Test Stats '] top1_per_class accuracy is: [90.1 95.6 57.4 58.1 76.9 67.8 93.4 81.5 81.4 94.6], average: 79.68
+['Test Stats '] top1_per_class accuracy is: [90.2 96.1 55.4 58.  76.6 68.7 93.7 81.3 79.  93.8], average: 79.28
+['Test Stats '] top1_per_class accuracy is: [90.2 95.6 56.4 60.1 77.7 68.3 92.7 80.7 79.7 95. ], average: 79.64
+['Test Stats '] top1_per_class accuracy is: [88.9 95.9 54.8 59.2 79.9 69.2 93.2 81.1 81.6 94.3], average: 79.81
+['Test Stats '] top1_per_class accuracy is: [89.4 96.  56.2 58.7 77.8 71.4 93.5 81.7 81.  94.1], average: 79.98
+['Test Stats '] top1_per_class accuracy is: [89.9 96.3 59.3 61.6 78.9 69.2 93.5 80.9 82.5 94.1], average: 80.62
+['Test Stats '] top1_per_class accuracy is: [90.4 96.1 58.4 59.4 78.3 70.3 93.1 82.  80.9 94.3], average: 80.32
+['Test Stats '] top1_per_class accuracy is: [92.1 96.2 56.2 58.5 81.  69.5 92.4 80.8 81.8 94.2], average: 80.27
+['Test Stats '] top1_per_class accuracy is: [90.6 96.3 55.9 58.8 78.7 70.7 92.9 81.5 79.5 94.3], average: 79.92
+['Test Stats '] top1_per_class accuracy is: [89.9 95.7 55.7 60.4 80.9 67.8 93.9 80.2 79.7 95.2], average: 79.94
+['Test Stats '] top1_per_class accuracy is: [91.1 95.9 56.5 59.9 80.1 69.3 93.8 80.4 79.9 94.5], average: 80.14
+['Test Stats '] top1_per_class accuracy is: [89.9 95.6 55.9 60.3 78.4 69.2 94.3 80.3 80.7 95.3], average: 79.99
+['Test Stats '] top1_per_class accuracy is: [91.3 95.8 56.1 61.2 78.  69.2 93.5 79.9 79.1 94.9], average: 79.9
+['Test Stats '] top1_per_class accuracy is: [90.3 95.8 57.1 59.6 79.5 68.4 94.4 80.1 80.6 94.2], average: 80.0
+['Test Stats '] top1_per_class accuracy is: [90.2 96.3 57.3 57.8 79.4 69.3 93.2 82.2 80.5 95.3], average: 80.15
+['Test Stats '] top1_per_class accuracy is: [91.7 95.6 58.7 59.1 79.2 71.2 92.9 80.3 79.9 94.8], average: 80.34
+['Test Stats '] top1_per_class accuracy is: [92.3 96.  57.9 56.9 78.3 71.3 92.9 80.1 80.5 94.5], average: 80.07
+['Test Stats '] top1_per_class accuracy is: [90.8 96.5 59.2 57.4 81.6 70.1 93.  80.5 80.7 95. ], average: 80.48
+['Test Stats '] top1_per_class accuracy is: [90.3 95.8 59.8 62.4 79.8 68.9 92.5 80.6 82.7 95. ], average: 80.78
+['Test Stats '] top1_per_class accuracy is: [91.8 95.4 55.4 60.3 79.1 69.4 92.2 81.8 79.7 95.4], average: 80.05
+['Test Stats '] top1_per_class accuracy is: [91.1 95.9 57.9 58.2 79.8 72.4 92.1 81.7 78.6 95.1], average: 80.28
+['Test Stats '] top1_per_class accuracy is: [91.5 95.7 59.  59.9 80.8 71.4 93.4 80.8 80.7 95.4], average: 80.86
+['Test Stats '] top1_per_class accuracy is: [90.5 95.7 58.4 60.1 82.3 71.5 94.  79.8 81.9 94.7], average: 80.89
+['Test Stats '] top1_per_class accuracy is: [89.5 95.6 55.5 59.2 83.  71.6 94.1 81.  84.2 94.8], average: 80.85
+['Test Stats '] top1_per_class accuracy is: [90.7 95.9 56.7 61.1 81.5 70.6 93.9 79.7 83.4 95. ], average: 80.85
+['Test Stats '] top1_per_class accuracy is: [90.7 95.5 58.8 62.8 80.9 69.3 93.6 79.9 85.1 95.4], average: 81.2
+['Test Stats '] top1_per_class accuracy is: [91.6 95.2 56.5 63.1 80.  71.4 93.8 81.8 85.2 95.5], average: 81.41
+['Test Stats '] top1_per_class accuracy is: [93.4 96.1 56.1 61.9 80.  71.9 94.1 81.3 83.4 94.1], average: 81.23
+['Test Stats '] top1_per_class accuracy is: [92.7 96.3 57.8 60.3 80.4 71.4 94.6 82.  83.1 94.9], average: 81.35
+['Test Stats '] top1_per_class accuracy is: [92.2 96.6 57.6 61.3 82.  71.1 94.  81.1 83.1 94. ], average: 81.3
+['Test Stats '] top1_per_class accuracy is: [89.9 95.7 59.2 60.6 79.9 71.5 93.5 81.7 83.8 95.1], average: 81.09
+['Test Stats '] top1_per_class accuracy is: [91.  95.9 59.4 60.2 82.1 71.3 94.  81.  86.  95.1], average: 81.6
+['Test Stats '] top1_per_class accuracy is: [92.2 95.6 59.6 61.6 82.5 72.3 94.4 81.4 84.7 95.1], average: 81.94
+['Test Stats '] top1_per_class accuracy is: [92.2 95.  59.4 59.4 82.1 71.2 94.5 81.8 85.3 95.5], average: 81.64
+['Test Stats '] top1_per_class accuracy is: [93.4 96.1 58.8 59.9 80.3 71.9 93.9 81.7 82.  95. ], average: 81.3
+['Test Stats '] top1_per_class accuracy is: [93.1 95.8 60.4 60.3 81.8 69.5 94.  81.8 81.4 95.2], average: 81.33
+['Test Stats '] top1_per_class accuracy is: [91.5 96.1 59.2 62.6 81.7 71.7 94.2 80.3 80.  95.2], average: 81.25
+['Test Stats '] top1_per_class accuracy is: [92.9 96.3 60.1 57.9 79.3 73.  93.9 80.4 77.9 94. ], average: 80.57
+['Test Stats '] top1_per_class accuracy is: [91.7 96.2 60.2 59.9 80.  72.  94.  80.5 78.8 94.3], average: 80.76
+['Test Stats '] top1_per_class accuracy is: [92.2 96.4 58.9 59.4 80.9 72.7 94.7 81.5 80.8 94.6], average: 81.21
+['Test Stats '] top1_per_class accuracy is: [93.4 95.9 57.8 61.7 80.9 74.2 94.  80.6 81.8 94.9], average: 81.52
+['Test Stats '] top1_per_class accuracy is: [92.3 95.8 57.6 60.9 80.1 70.9 94.6 81.4 81.  95.6], average: 81.02
+['Test Stats '] top1_per_class accuracy is: [90.5 96.  58.3 60.9 81.2 70.9 94.2 80.8 81.9 95.6], average: 81.03
+['Test Stats '] top1_per_class accuracy is: [91.6 96.  59.6 61.8 82.3 69.3 94.3 81.8 80.8 95. ], average: 81.25
+['Test Stats '] top1_per_class accuracy is: [91.1 96.1 60.3 63.4 78.7 69.7 94.4 82.  83.3 94.4], average: 81.34
+['Test Stats '] top1_per_class accuracy is: [91.4 97.  60.3 64.5 80.9 67.9 93.8 82.3 84.3 94.8], average: 81.72
+['Test Stats '] top1_per_class accuracy is: [91.8 96.9 58.2 63.5 80.7 70.6 94.4 81.7 82.4 94.2], average: 81.44
+['Test Stats '] top1_per_class accuracy is: [92.1 96.3 57.8 59.9 81.3 69.  94.9 81.9 83.8 95.2], average: 81.22
+['Test Stats '] top1_per_class accuracy is: [90.4 96.2 57.7 62.7 80.  70.2 94.6 81.9 83.7 95.2], average: 81.26
+['Test Stats '] top1_per_class accuracy is: [90.2 96.1 59.5 61.9 79.2 70.  94.8 83.2 81.3 95.1], average: 81.13
+['Test Stats '] top1_per_class accuracy is: [90.9 95.8 58.5 61.2 79.8 73.4 94.5 82.5 82.6 94.5], average: 81.37
+['Test Stats '] top1_per_class accuracy is: [90.3 96.1 58.9 58.8 80.  73.7 94.  82.5 82.7 95.5], average: 81.25
+['Test Stats '] top1_per_class accuracy is: [90.2 94.9 60.2 61.1 80.9 73.5 94.8 82.4 83.5 95.9], average: 81.74
+['Test Stats '] top1_per_class accuracy is: [90.7 95.6 59.2 62.2 80.2 73.4 94.2 81.7 82.9 96.1], average: 81.62
+['Test Stats '] top1_per_class accuracy is: [90.3 96.3 62.1 63.1 80.8 70.6 94.2 82.8 81.9 95.2], average: 81.73
+['Test Stats '] top1_per_class accuracy is: [91.  96.7 60.9 63.4 83.1 71.1 94.8 81.4 81.6 94.8], average: 81.88
+['Test Stats '] top1_per_class accuracy is: [91.2 96.4 61.  63.3 83.7 70.6 94.8 81.3 81.7 95. ], average: 81.9
+['Test Stats '] top1_per_class accuracy is: [92.  96.4 59.1 62.8 83.  71.6 94.8 81.9 82.2 94.8], average: 81.86
+['Test Stats '] top1_per_class accuracy is: [92.1 95.8 61.2 64.  83.4 70.4 94.2 81.  83.5 95. ], average: 82.06
+['Test Stats '] top1_per_class accuracy is: [90.6 96.1 62.4 63.6 85.8 68.7 94.9 81.1 85.2 95.1], average: 82.35
+['Test Stats '] top1_per_class accuracy is: [92.2 96.3 62.  66.1 85.6 68.3 95.1 81.5 85.7 95.4], average: 82.82
+['Test Stats '] top1_per_class accuracy is: [91.5 96.9 59.4 63.3 83.6 69.9 95.4 82.6 85.5 95.3], average: 82.34
+['Test Stats '] top1_per_class accuracy is: [91.4 96.  58.2 62.5 82.2 70.6 95.4 83.4 84.3 95.8], average: 81.98
+['Test Stats '] top1_per_class accuracy is: [91.3 96.3 60.  64.7 82.8 69.8 95.  83.7 84.3 95.7], average: 82.36
+['Test Stats '] top1_per_class accuracy is: [91.8 96.6 61.5 63.  83.5 71.7 94.  83.  85.1 95. ], average: 82.52
+['Test Stats '] top1_per_class accuracy is: [91.6 96.6 60.5 65.3 82.7 69.7 95.5 82.8 84.9 95.4], average: 82.5
+['Test Stats '] top1_per_class accuracy is: [91.6 96.1 62.5 67.  83.  70.5 94.4 82.7 84.1 95.3], average: 82.72
+['Test Stats '] top1_per_class accuracy is: [91.7 95.8 62.  65.  83.2 72.  95.  83.  85.6 95.3], average: 82.86
+['Test Stats '] top1_per_class accuracy is: [91.6 96.  61.1 66.2 83.3 71.1 94.9 82.8 87.  95.4], average: 82.94
+['Test Stats '] top1_per_class accuracy is: [91.  95.9 61.2 65.3 82.2 70.7 95.1 83.  88.4 95.2], average: 82.8
+['Test Stats '] top1_per_class accuracy is: [92.2 96.2 61.3 64.9 82.1 71.5 94.8 84.3 86.1 95.2], average: 82.86
+['Test Stats '] top1_per_class accuracy is: [93.5 96.2 61.  64.7 82.4 71.5 94.4 83.8 86.3 95.3], average: 82.91
+['Test Stats '] top1_per_class accuracy is: [92.4 96.5 60.5 65.  84.4 73.9 94.3 83.  87.3 95.3], average: 83.26
+['Test Stats '] top1_per_class accuracy is: [92.3 96.9 61.5 66.2 83.1 72.  94.9 83.4 87.6 95.7], average: 83.36
+['Test Stats '] top1_per_class accuracy is: [93.  96.2 60.6 64.1 83.1 73.1 94.7 82.9 86.8 95. ], average: 82.95
+['Test Stats '] top1_per_class accuracy is: [92.  95.9 63.  64.1 82.  72.2 94.5 84.3 85.6 95.3], average: 82.89
+['Test Stats '] top1_per_class accuracy is: [92.5 96.2 61.8 63.4 79.6 74.3 94.8 83.9 86.9 94.9], average: 82.83
+['Test Stats '] top1_per_class accuracy is: [91.7 95.9 62.  64.4 81.1 72.5 95.2 83.7 87.8 95.9], average: 83.02
+['Test Stats '] top1_per_class accuracy is: [92.7 96.6 62.1 64.2 81.9 70.9 95.  84.1 88.7 94.6], average: 83.08
+['Test Stats '] top1_per_class accuracy is: [91.9 96.4 62.1 64.1 82.3 69.4 95.5 84.3 88.7 95.5], average: 83.02
+['Test Stats '] top1_per_class accuracy is: [91.5 96.5 61.7 63.8 83.5 69.3 94.9 84.5 89.8 95.4], average: 83.09
+['Test Stats '] top1_per_class accuracy is: [92.5 95.8 62.  61.6 83.  69.5 95.  84.2 89.2 95.4], average: 82.82
+['Test Stats '] top1_per_class accuracy is: [92.4 96.3 62.2 66.3 85.  69.5 94.3 82.8 87.5 95.2], average: 83.15
+['Test Stats '] top1_per_class accuracy is: [92.3 96.1 60.3 64.3 82.8 71.6 95.7 83.1 88.3 95.4], average: 82.99
+['Test Stats '] top1_per_class accuracy is: [92.1 96.2 61.4 65.3 82.  71.2 95.9 83.2 88.6 95.6], average: 83.15
+['Test Stats '] top1_per_class accuracy is: [92.1 96.6 61.4 65.2 84.1 72.2 94.3 81.7 88.3 95.4], average: 83.13
+['Test Stats '] top1_per_class accuracy is: [92.6 96.3 60.7 63.  83.5 71.3 95.8 81.1 87.1 95.9], average: 82.73
+['Test Stats '] top1_per_class accuracy is: [93.1 96.6 61.1 62.3 82.4 72.  94.7 82.7 85.8 95.8], average: 82.65
+['Test Stats '] top1_per_class accuracy is: [92.5 96.  61.4 66.1 82.7 71.4 95.  82.6 87.  96. ], average: 83.07
+['Test Stats '] top1_per_class accuracy is: [93.3 96.  63.2 64.4 84.3 71.4 94.5 83.1 87.4 95.2], average: 83.28
+['Test Stats '] top1_per_class accuracy is: [91.8 95.8 63.2 64.  83.6 72.  95.1 83.8 86.  96.2], average: 83.15
+['Test Stats '] top1_per_class accuracy is: [91.9 95.8 62.2 61.3 84.4 72.5 95.1 83.5 89.  96.2], average: 83.19
+['Test Stats '] top1_per_class accuracy is: [91.9 96.  62.6 62.4 83.8 74.9 95.3 83.3 88.8 96.2], average: 83.52
+['Test Stats '] top1_per_class accuracy is: [92.8 96.4 63.4 62.5 86.1 72.1 94.8 84.7 88.7 95.8], average: 83.73
+['Test Stats '] top1_per_class accuracy is: [93.  95.9 63.2 62.3 83.7 73.5 95.  84.4 88.8 95.5], average: 83.53
+['Test Stats '] top1_per_class accuracy is: [92.  96.4 63.  60.9 83.9 73.8 95.7 83.9 89.6 94.8], average: 83.4
+['Test Stats '] top1_per_class accuracy is: [93.5 96.3 62.7 60.8 83.6 73.  95.3 84.  89.2 95.1], average: 83.35
+['Test Stats '] top1_per_class accuracy is: [92.6 95.7 63.3 63.1 84.3 72.9 94.5 84.3 89.5 95.4], average: 83.56
+['Test Stats '] top1_per_class accuracy is: [92.7 95.6 64.3 61.1 85.1 73.8 94.2 83.5 88.7 95.4], average: 83.44
+['Test Stats '] top1_per_class accuracy is: [92.5 96.  64.2 65.6 85.9 72.9 94.9 83.3 86.1 95.1], average: 83.65
+['Test Stats '] top1_per_class accuracy is: [92.  95.9 63.4 63.6 84.2 73.8 94.6 82.4 84.7 95.2], average: 82.98
+['Test Stats '] top1_per_class accuracy is: [91.7 96.3 64.9 64.1 83.1 74.  94.5 84.1 85.6 94.9], average: 83.32
+['Test Stats '] top1_per_class accuracy is: [93.  96.2 63.6 63.6 84.8 72.8 94.4 83.9 86.  95.7], average: 83.4
+['Test Stats '] top1_per_class accuracy is: [93.3 96.2 62.2 61.  84.3 72.2 95.3 84.7 86.  95.2], average: 83.04
+['Test Stats '] top1_per_class accuracy is: [93.6 96.6 63.2 61.4 84.7 72.8 95.4 84.2 86.7 95.2], average: 83.38
+['Test Stats '] top1_per_class accuracy is: [94.5 96.6 64.  62.3 84.8 73.5 95.  84.4 86.6 95.2], average: 83.69
+['Test Stats '] top1_per_class accuracy is: [93.8 95.9 64.8 64.3 83.6 73.6 95.1 84.  86.7 95.3], average: 83.71
+['Test Stats '] top1_per_class accuracy is: [93.3 96.3 63.4 68.2 82.9 71.9 95.4 83.9 87.1 95.3], average: 83.77
+['Test Stats '] top1_per_class accuracy is: [93.3 96.  63.4 67.2 84.3 70.2 95.6 83.4 87.9 95.1], average: 83.64
+['Test Stats '] top1_per_class accuracy is: [92.9 96.2 63.5 64.2 83.6 73.1 95.  82.7 88.2 95.1], average: 83.45
+['Test Stats '] top1_per_class accuracy is: [93.4 96.5 64.2 65.1 83.5 73.1 95.1 82.5 88.  94.9], average: 83.63
+['Test Stats '] top1_per_class accuracy is: [93.8 96.1 66.1 64.2 83.7 72.6 95.1 83.7 85.3 94.7], average: 83.53
+['Test Stats '] top1_per_class accuracy is: [93.5 96.6 64.4 61.8 85.  72.2 96.  83.4 86.3 93.9], average: 83.31
+['Test Stats '] top1_per_class accuracy is: [93.3 96.5 65.9 65.4 86.  71.5 94.5 84.5 85.7 94.9], average: 83.82
+['Test Stats '] top1_per_class accuracy is: [93.4 95.7 64.1 65.3 85.4 70.1 96.  84.6 86.4 95.3], average: 83.63
+['Test Stats '] top1_per_class accuracy is: [94.  95.7 64.8 63.9 84.7 71.  96.  83.6 87.2 95.9], average: 83.68
+['Test Stats '] top1_per_class accuracy is: [93.4 95.2 65.8 65.1 85.4 71.7 95.3 83.9 88.7 96.3], average: 84.08
+['Test Stats '] top1_per_class accuracy is: [92.9 95.9 65.5 63.7 85.  72.9 95.5 83.4 88.8 96. ], average: 83.96
+['Test Stats '] top1_per_class accuracy is: [93.3 95.7 67.  64.2 86.  72.4 95.8 83.2 88.  95.5], average: 84.11
+['Test Stats '] top1_per_class accuracy is: [93.5 96.5 66.8 64.  85.8 74.1 95.  82.7 88.  95. ], average: 84.14
+['Test Stats '] top1_per_class accuracy is: [92.7 96.2 66.4 65.5 83.5 72.9 95.2 83.3 89.  95.5], average: 84.02
+['Test Stats '] top1_per_class accuracy is: [92.1 96.4 65.8 65.  85.5 74.2 95.9 83.8 88.3 94.9], average: 84.19
+['Test Stats '] top1_per_class accuracy is: [92.9 96.5 63.2 65.5 85.4 72.4 96.1 83.6 89.  94.7], average: 83.93
+['Test Stats '] top1_per_class accuracy is: [92.9 96.  63.2 63.2 84.2 73.4 95.3 83.  89.9 94.8], average: 83.59
+['Test Stats '] top1_per_class accuracy is: [93.2 96.1 63.7 63.7 83.9 72.9 95.6 83.3 89.9 94.6], average: 83.69
+['Test Stats '] top1_per_class accuracy is: [93.5 96.3 63.4 63.1 86.1 74.2 94.9 82.3 90.  95.3], average: 83.91
+['Test Stats '] top1_per_class accuracy is: [93.4 95.8 65.5 60.  85.2 74.1 95.7 82.3 89.4 96.4], average: 83.78
+['Test Stats '] top1_per_class accuracy is: [92.9 94.8 65.9 61.1 87.6 73.7 95.6 83.1 89.  96.2], average: 83.99
+['Test Stats '] top1_per_class accuracy is: [92.3 94.6 65.  63.3 84.8 74.9 95.3 82.9 88.  95.7], average: 83.68
+['Test Stats '] top1_per_class accuracy is: [92.9 96.9 65.9 64.8 84.  73.6 95.3 83.5 88.5 94.9], average: 84.03
+['Test Stats '] top1_per_class accuracy is: [93.1 96.9 65.5 64.2 84.3 73.5 95.1 85.3 89.8 95.4], average: 84.31
+['Test Stats '] top1_per_class accuracy is: [92.1 96.2 66.5 65.1 83.9 74.  95.4 84.8 90.1 95.5], average: 84.36
+['Test Stats '] top1_per_class accuracy is: [93.4 97.2 66.4 64.8 84.1 73.5 95.7 83.8 90.  95.1], average: 84.4
+['Test Stats '] top1_per_class accuracy is: [93.2 96.5 67.1 65.6 84.6 74.7 95.1 84.2 89.8 96.2], average: 84.7
+['Test Stats '] top1_per_class accuracy is: [92.3 96.3 65.5 66.8 84.6 74.3 95.9 83.8 90.1 96.1], average: 84.57
+['Test Stats '] top1_per_class accuracy is: [93.8 97.5 66.7 64.2 84.9 75.5 94.3 84.  89.6 94.6], average: 84.51
+['Test Stats '] top1_per_class accuracy is: [94.  96.9 66.1 64.6 87.5 75.2 94.  84.1 87.5 94.7], average: 84.46
+['Test Stats '] top1_per_class accuracy is: [93.9 96.  64.7 64.5 86.6 74.  95.4 85.7 86.3 94.8], average: 84.19
+['Test Stats '] top1_per_class accuracy is: [93.9 96.3 67.7 65.  84.6 73.1 95.3 83.1 87.2 95.4], average: 84.16
+['Test Stats '] top1_per_class accuracy is: [94.2 95.9 66.3 66.6 86.7 71.9 95.8 83.9 88.2 95.9], average: 84.54
+['Test Stats '] top1_per_class accuracy is: [93.5 95.9 64.2 65.7 87.7 74.  95.3 83.5 88.7 96.3], average: 84.48
+['Test Stats '] top1_per_class accuracy is: [92.8 96.6 66.8 67.1 87.3 72.4 95.3 83.7 89.4 96.1], average: 84.75
+['Test Stats '] top1_per_class accuracy is: [93.9 96.7 66.2 64.7 84.  72.9 95.  85.1 89.4 95.6], average: 84.35
+['Test Stats '] top1_per_class accuracy is: [93.5 96.1 66.8 64.2 85.3 72.4 95.9 84.4 89.4 95.8], average: 84.38
+['Test Stats '] top1_per_class accuracy is: [93.1 96.6 67.6 66.9 85.4 73.6 95.2 83.5 90.2 95.2], average: 84.73
+['Test Stats '] top1_per_class accuracy is: [93.1 96.4 65.9 65.6 86.3 75.2 95.4 82.8 90.1 95.4], average: 84.62
+['Test Stats '] top1_per_class accuracy is: [93.3 96.9 67.8 67.2 84.9 72.5 95.2 84.  90.4 94.9], average: 84.71
+['Test Stats '] top1_per_class accuracy is: [92.9 96.7 67.8 65.  86.  74.  95.2 84.5 90.6 95.3], average: 84.8
+['Test Stats '] top1_per_class accuracy is: [94.1 95.6 66.9 65.  85.9 75.4 94.4 85.  89.2 95.5], average: 84.7
+['Test Stats '] top1_per_class accuracy is: [93.6 96.3 65.3 65.2 87.6 72.9 95.4 85.2 89.4 96.3], average: 84.72
+['Test Stats '] top1_per_class accuracy is: [93.3 96.1 66.1 65.9 87.  73.4 94.9 84.3 89.8 95.7], average: 84.65
+['Test Stats '] top1_per_class accuracy is: [93.6 97.1 66.4 64.6 87.  74.3 95.3 82.6 89.4 95.3], average: 84.56
+['Test Stats '] top1_per_class accuracy is: [94.7 96.9 68.  63.  87.8 74.7 93.8 84.  90.  95.4], average: 84.83
+['Test Stats '] top1_per_class accuracy is: [94.5 96.3 66.9 65.6 87.3 73.6 94.9 84.  89.8 95.9], average: 84.88
+['Test Stats '] top1_per_class accuracy is: [94.8 96.3 67.8 63.1 85.8 74.1 94.6 82.4 89.6 95.3], average: 84.38
+['Test Stats '] top1_per_class accuracy is: [93.6 95.9 66.7 64.9 87.5 72.4 94.5 83.3 90.  95.8], average: 84.46
+['Test Stats '] top1_per_class accuracy is: [94.7 95.9 66.3 64.4 86.4 73.  94.4 83.  90.9 95.4], average: 84.44
+['Test Stats '] top1_per_class accuracy is: [93.6 95.8 67.2 63.3 87.1 73.8 95.  82.1 89.4 96. ], average: 84.33
+['Test Stats '] top1_per_class accuracy is: [93.5 95.9 66.8 64.4 88.6 72.9 95.1 83.2 88.  96. ], average: 84.44
+['Test Stats '] top1_per_class accuracy is: [93.2 95.9 66.  65.7 87.1 75.7 95.2 82.7 88.7 95.7], average: 84.59
+['Test Stats '] top1_per_class accuracy is: [93.9 95.7 64.7 64.8 88.3 73.7 95.3 83.3 89.2 96.1], average: 84.5
+['Test Stats '] top1_per_class accuracy is: [94.  96.  65.9 65.2 87.2 71.8 95.1 83.1 89.7 96. ], average: 84.4
+['Test Stats '] top1_per_class accuracy is: [94.8 96.5 66.1 66.2 85.1 73.  94.8 83.5 88.5 96.1], average: 84.46
+['Test Stats '] top1_per_class accuracy is: [93.8 95.9 67.4 66.1 84.5 72.5 95.3 82.9 89.6 96. ], average: 84.4
+['Test Stats '] top1_per_class accuracy is: [93.3 95.8 67.6 66.1 85.6 72.8 94.9 83.  89.2 95.5], average: 84.38
+['Test Stats '] top1_per_class accuracy is: [93.6 96.4 67.8 65.4 87.3 71.6 95.2 82.9 89.8 95.3], average: 84.53
+['Test Stats '] top1_per_class accuracy is: [93.3 95.4 65.  63.9 87.1 71.8 95.1 82.9 89.7 95.9], average: 84.01
+['Test Stats '] top1_per_class accuracy is: [94.3 96.1 64.5 64.9 84.8 72.3 95.4 84.7 89.8 95.3], average: 84.21
+['Test Stats '] top1_per_class accuracy is: [94.8 95.5 63.9 63.2 85.7 72.4 95.  83.5 89.7 95.6], average: 83.93
+['Test Stats '] top1_per_class accuracy is: [92.6 96.  64.3 65.5 86.6 74.5 95.3 83.  89.4 95.9], average: 84.31
+['Test Stats '] top1_per_class accuracy is: [92.6 95.2 66.4 64.6 87.  73.6 94.7 84.9 90.1 95.9], average: 84.5
+['Test Stats '] top1_per_class accuracy is: [94.3 96.9 66.2 62.2 85.8 74.3 95.  84.2 89.1 95.2], average: 84.32
+['Test Stats '] top1_per_class accuracy is: [93.5 96.2 65.7 64.4 87.  74.  94.8 84.1 90.1 95.5], average: 84.53
+['Test Stats '] top1_per_class accuracy is: [93.7 95.5 65.2 64.6 88.5 72.9 95.  85.1 90.9 95.6], average: 84.7
+['Test Stats '] top1_per_class accuracy is: [93.2 95.6 66.1 64.6 89.  72.1 95.6 86.2 90.7 96.4], average: 84.95
+['Test Stats '] top1_per_class accuracy is: [94.5 96.1 66.3 66.7 87.9 72.3 95.1 85.4 89.  96. ], average: 84.93
+['Test Stats '] top1_per_class accuracy is: [93.8 95.1 67.3 66.3 86.7 72.2 95.4 86.1 89.1 96.2], average: 84.82
+['Test Stats '] top1_per_class accuracy is: [93.8 96.3 67.4 64.3 89.1 73.7 95.4 85.8 89.3 95.2], average: 85.03
+['Test Stats '] top1_per_class accuracy is: [95.2 95.7 66.2 63.6 89.5 74.7 95.5 85.5 89.5 96.4], average: 85.18
+['Test Stats '] top1_per_class accuracy is: [94.6 97.  64.8 65.5 88.4 75.1 95.1 84.8 89.8 95.6], average: 85.07
+['Test Stats '] top1_per_class accuracy is: [93.9 96.3 65.8 66.4 88.1 73.3 95.1 86.6 89.4 95.8], average: 85.07
+['Test Stats '] top1_per_class accuracy is: [94.7 96.1 65.3 67.5 88.1 72.2 96.  86.3 89.8 95.4], average: 85.14
+['Test Stats '] top1_per_class accuracy is: [93.7 95.6 65.9 67.2 89.3 74.2 94.9 85.1 89.8 96.5], average: 85.22
+['Test Stats '] top1_per_class accuracy is: [93.3 95.7 64.8 66.2 88.4 72.3 95.9 85.1 89.5 96.1], average: 84.73
+['Test Stats '] top1_per_class accuracy is: [94.2 95.4 66.2 68.6 87.2 70.7 94.7 85.2 89.5 97. ], average: 84.87
+['Test Stats '] top1_per_class accuracy is: [94.3 95.3 67.5 66.  86.5 70.7 95.5 84.6 90.5 96.9], average: 84.78
+['Test Stats '] top1_per_class accuracy is: [94.2 96.2 68.6 65.2 86.8 72.5 95.3 85.  89.9 96.8], average: 85.05
+['Test Stats '] top1_per_class accuracy is: [94.2 96.7 68.7 66.6 88.  72.8 95.4 83.7 89.7 95.8], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [94.9 96.8 68.2 62.8 87.3 75.6 95.8 83.9 89.3 95.7], average: 85.03
+['Test Stats '] top1_per_class accuracy is: [94.1 96.2 68.1 66.3 87.6 73.7 95.8 84.6 89.8 96. ], average: 85.22
+['Test Stats '] top1_per_class accuracy is: [93.3 96.4 69.1 65.4 88.6 73.7 95.5 84.4 90.5 96.5], average: 85.34
+['Test Stats '] top1_per_class accuracy is: [93.1 96.5 69.5 64.8 88.7 73.5 95.5 84.6 90.4 96.3], average: 85.29
+['Test Stats '] top1_per_class accuracy is: [93.8 96.8 68.3 66.6 88.1 72.5 94.4 84.7 90.1 95.9], average: 85.12
+['Test Stats '] top1_per_class accuracy is: [94.2 96.7 68.  66.4 87.5 73.3 94.9 84.7 89.7 96. ], average: 85.14
+['Test Stats '] top1_per_class accuracy is: [92.5 96.8 68.1 66.6 87.9 70.8 95.4 85.  90.3 95. ], average: 84.84
+['Test Stats '] top1_per_class accuracy is: [92.8 96.4 67.5 68.6 88.  70.1 95.6 84.2 90.9 95.5], average: 84.96
+['Test Stats '] top1_per_class accuracy is: [93.  96.7 68.6 67.3 88.1 71.7 94.4 85.9 91.1 95.4], average: 85.22
+['Test Stats '] top1_per_class accuracy is: [93.8 96.7 68.6 68.  86.5 72.6 95.  84.6 90.3 96.1], average: 85.22
+['Test Stats '] top1_per_class accuracy is: [94.3 96.3 68.4 68.7 87.4 73.8 94.9 85.4 89.8 95.4], average: 85.44
+['Test Stats '] top1_per_class accuracy is: [92.8 95.9 67.8 66.7 88.  75.7 94.6 85.5 90.4 96.7], average: 85.41
+['Test Stats '] top1_per_class accuracy is: [93.9 96.5 67.2 65.5 87.4 74.4 95.6 85.6 89.1 95.9], average: 85.11
+['Test Stats '] top1_per_class accuracy is: [94.5 96.6 65.8 66.2 86.6 74.8 95.9 86.5 89.9 95.6], average: 85.24
+['Test Stats '] top1_per_class accuracy is: [93.6 96.8 67.7 65.6 86.3 74.9 96.1 86.3 89.6 96.1], average: 85.3
+['Test Stats '] top1_per_class accuracy is: [93.6 96.5 69.8 66.  87.9 73.1 95.5 86.  90.1 95.3], average: 85.38
+['Test Stats '] top1_per_class accuracy is: [93.9 95.8 67.9 67.  87.  73.4 94.9 86.3 90.1 96.3], average: 85.26
+['Test Stats '] top1_per_class accuracy is: [93.7 96.6 66.7 62.9 87.1 74.5 95.7 86.3 90.5 95.8], average: 84.98
+['Test Stats '] top1_per_class accuracy is: [92.8 96.7 68.9 66.1 86.8 73.8 95.3 86.2 90.1 96.3], average: 85.3
+['Test Stats '] top1_per_class accuracy is: [93.5 96.3 67.5 65.3 86.8 75.9 95.3 85.9 88.7 96.4], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [93.2 95.6 66.7 63.7 87.2 75.3 95.9 84.8 89.8 96.4], average: 84.86
+['Test Stats '] top1_per_class accuracy is: [93.  95.1 68.2 64.6 88.4 74.4 95.  85.8 90.  95.7], average: 85.02
+['Test Stats '] top1_per_class accuracy is: [94.6 95.4 68.5 66.6 88.2 74.3 94.8 85.1 90.3 95.9], average: 85.37
+['Test Stats '] top1_per_class accuracy is: [93.2 95.6 67.6 66.1 88.1 73.6 95.3 84.8 90.1 95.9], average: 85.03
+['Test Stats '] top1_per_class accuracy is: [93.5 95.4 67.5 67.3 88.7 72.4 94.9 84.7 90.3 96.1], average: 85.08
+['Test Stats '] top1_per_class accuracy is: [93.6 95.7 66.5 65.7 88.3 72.1 95.6 85.  90.5 95.9], average: 84.89
+['Test Stats '] top1_per_class accuracy is: [93.7 96.6 68.3 65.7 88.  72.4 95.6 85.3 90.1 95.9], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [92.6 95.7 68.9 67.8 88.6 72.4 95.4 84.6 90.  95.6], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [92.5 95.5 67.8 67.9 89.6 71.9 95.5 83.7 90.7 96.3], average: 85.14
+['Test Stats '] top1_per_class accuracy is: [94.8 96.3 69.1 67.6 87.3 72.1 95.9 83.7 90.  96.2], average: 85.3
+['Test Stats '] top1_per_class accuracy is: [94.4 96.  69.6 66.4 87.6 73.8 94.4 84.2 90.3 96.4], average: 85.31
+['Test Stats '] top1_per_class accuracy is: [94.2 96.1 68.6 68.5 87.3 73.1 95.8 84.3 90.3 96.2], average: 85.44
+['Test Stats '] top1_per_class accuracy is: [93.5 96.1 67.3 65.9 88.  72.6 96.3 85.4 90.7 96.1], average: 85.19
+['Test Stats '] top1_per_class accuracy is: [92.7 95.3 67.4 67.  89.1 72.5 96.1 84.9 91.3 96.5], average: 85.28
+['Test Stats '] top1_per_class accuracy is: [94.  95.6 68.2 62.3 87.4 73.6 95.2 86.1 91.7 96.5], average: 85.06
+['Test Stats '] top1_per_class accuracy is: [93.  96.3 67.2 64.5 87.7 74.6 95.  86.1 91.  96.3], average: 85.17
+['Test Stats '] top1_per_class accuracy is: [95.  96.1 67.4 64.4 89.1 72.1 95.  85.9 90.4 96.2], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [94.4 95.7 67.8 66.2 87.9 72.7 94.4 85.3 90.9 96.6], average: 85.19
+['Test Stats '] top1_per_class accuracy is: [95.6 95.5 66.9 64.3 86.  73.6 95.3 84.7 89.1 96.2], average: 84.72
+['Test Stats '] top1_per_class accuracy is: [94.8 95.4 68.4 66.2 87.5 72.6 95.5 84.9 90.2 96.2], average: 85.17
+['Test Stats '] top1_per_class accuracy is: [94.  95.8 67.9 66.6 87.8 71.9 95.1 84.9 89.2 96.4], average: 84.96
+['Test Stats '] top1_per_class accuracy is: [93.7 96.4 68.4 66.5 87.9 70.1 95.3 85.7 90.2 96.3], average: 85.05
+['Test Stats '] top1_per_class accuracy is: [93.7 96.4 67.3 66.5 88.8 71.5 95.8 83.1 90.6 96.2], average: 84.99
+['Test Stats '] top1_per_class accuracy is: [93.7 96.9 69.4 67.7 88.6 71.4 95.7 84.2 90.  95.9], average: 85.35
+['Test Stats '] top1_per_class accuracy is: [94.2 97.2 69.  65.7 87.8 71.8 95.7 84.4 89.7 95.6], average: 85.11
+['Test Stats '] top1_per_class accuracy is: [93.6 96.9 69.6 65.7 88.4 73.7 95.2 84.8 90.  95.6], average: 85.35
+['Test Stats '] top1_per_class accuracy is: [93.2 96.6 68.8 68.3 88.8 71.2 95.4 85.9 90.3 96. ], average: 85.45
+['Test Stats '] top1_per_class accuracy is: [93.  96.2 68.5 69.5 89.2 68.8 95.6 85.1 90.6 96.2], average: 85.27
+['Test Stats '] top1_per_class accuracy is: [93.1 96.4 68.7 67.  89.  71.9 95.2 84.1 89.7 95.8], average: 85.09
+['Test Stats '] top1_per_class accuracy is: [92.9 96.9 68.5 67.5 89.1 71.7 95.2 84.7 89.9 95.2], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [92.6 96.6 68.4 65.9 88.5 73.8 95.1 85.6 90.1 96. ], average: 85.26
+['Test Stats '] top1_per_class accuracy is: [93.5 97.2 67.9 62.3 89.9 74.1 95.3 85.4 90.4 95.4], average: 85.14
+['Test Stats '] top1_per_class accuracy is: [94.1 96.2 68.4 64.1 87.3 73.8 95.4 86.2 89.4 95.9], average: 85.08
+['Test Stats '] top1_per_class accuracy is: [93.8 96.2 67.6 67.2 87.2 72.2 94.7 86.2 90.2 96.3], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [93.8 96.8 69.6 65.8 88.  73.3 94.8 85.7 90.3 96.1], average: 85.42
+['Test Stats '] top1_per_class accuracy is: [93.4 97.  71.1 66.8 86.4 73.  94.1 85.9 90.2 95.8], average: 85.37
+['Test Stats '] top1_per_class accuracy is: [94.  97.4 70.6 65.9 87.1 73.8 95.3 86.1 90.6 95.8], average: 85.66
+['Test Stats '] top1_per_class accuracy is: [93.9 96.3 68.9 66.5 86.6 72.8 94.6 85.7 91.  95.9], average: 85.22
+['Test Stats '] top1_per_class accuracy is: [93.2 95.3 69.6 66.6 87.5 72.7 94.6 85.8 90.6 96.5], average: 85.24
+['Test Stats '] top1_per_class accuracy is: [94.3 96.7 68.1 65.7 88.1 72.7 95.  86.4 90.1 96.3], average: 85.34
+['Test Stats '] top1_per_class accuracy is: [94.  96.6 69.4 68.  87.9 71.2 95.2 85.8 90.3 96.7], average: 85.51
+['Test Stats '] top1_per_class accuracy is: [94.1 96.3 68.6 67.9 89.2 70.5 95.4 85.8 91.6 96.4], average: 85.58
+['Test Stats '] top1_per_class accuracy is: [94.  96.4 69.  66.9 88.8 72.  95.9 86.1 90.9 96.5], average: 85.65
+['Test Stats '] top1_per_class accuracy is: [93.8 96.  69.3 69.2 89.5 71.9 95.4 85.9 90.2 96.7], average: 85.79
+['Test Stats '] top1_per_class accuracy is: [95.  96.6 69.3 67.  88.  73.5 95.3 87.6 90.  96.4], average: 85.87
+['Test Stats '] top1_per_class accuracy is: [94.3 96.  70.3 66.5 88.8 73.  95.  86.7 90.2 96.3], average: 85.71
+['Test Stats '] top1_per_class accuracy is: [93.8 96.2 67.7 68.5 89.3 70.5 96.1 87.6 90.  96. ], average: 85.57
+['Test Stats '] top1_per_class accuracy is: [93.7 96.5 66.8 69.1 89.1 70.3 96.1 87.2 90.1 96.1], average: 85.5
+['Test Stats '] top1_per_class accuracy is: [93.8 96.6 69.7 68.  86.9 71.2 96.7 85.3 90.4 95.3], average: 85.39
+['Test Stats '] top1_per_class accuracy is: [92.6 95.9 68.1 67.1 86.5 71.7 95.5 85.7 90.3 96.6], average: 85.0
+['Test Stats '] top1_per_class accuracy is: [94.1 96.5 68.9 66.7 85.7 72.9 96.  86.1 90.4 95.6], average: 85.29
+['Test Stats '] top1_per_class accuracy is: [94.6 96.6 70.  65.8 85.9 73.6 95.  85.5 90.4 95.7], average: 85.31
+['Test Stats '] top1_per_class accuracy is: [94.9 96.  70.6 67.  87.8 72.6 95.7 85.1 91.  96.5], average: 85.72
+['Test Stats '] top1_per_class accuracy is: [93.3 95.8 69.8 67.4 89.4 72.2 95.5 83.8 91.3 95.8], average: 85.43
+['Test Stats '] top1_per_class accuracy is: [94.8 95.1 68.6 66.3 88.6 72.5 95.4 84.2 91.  95.9], average: 85.24
+['Test Stats '] top1_per_class accuracy is: [93.6 94.7 69.1 67.2 89.2 72.1 94.1 84.  91.  96.4], average: 85.14
+['Test Stats '] top1_per_class accuracy is: [93.3 95.6 69.3 66.7 89.2 73.3 95.1 83.9 91.  96.1], average: 85.35
+['Test Stats '] top1_per_class accuracy is: [93.6 96.2 68.5 66.5 88.7 73.1 95.1 84.6 90.5 95.8], average: 85.26
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 69.9 65.  89.1 73.1 95.  83.8 89.6 96.2], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [93.4 96.  69.3 64.2 89.1 72.4 95.3 85.6 89.9 96.4], average: 85.16
+['Test Stats '] top1_per_class accuracy is: [93.  96.7 69.3 66.9 89.9 72.2 95.1 84.7 90.6 96. ], average: 85.44
+['Test Stats '] top1_per_class accuracy is: [95.3 96.4 70.5 65.3 88.2 74.9 94.6 84.4 89.7 96.2], average: 85.55
+['Test Stats '] top1_per_class accuracy is: [94.7 96.1 70.1 66.4 88.7 74.8 94.8 85.8 89.3 96.5], average: 85.72
+['Test Stats '] top1_per_class accuracy is: [94.1 95.7 69.2 65.7 88.9 76.  94.8 85.1 90.5 96.8], average: 85.68
+['Test Stats '] top1_per_class accuracy is: [94.3 96.2 69.5 65.  89.  74.5 95.3 84.8 90.5 96.5], average: 85.56
+['Test Stats '] top1_per_class accuracy is: [94.3 96.8 69.3 65.5 88.6 74.4 95.7 85.4 91.  96. ], average: 85.7
+['Test Stats '] top1_per_class accuracy is: [93.  96.9 70.6 66.1 87.  73.9 95.7 84.1 92.2 95.7], average: 85.52
+['Test Stats '] top1_per_class accuracy is: [94.4 96.  70.4 66.5 87.8 74.  95.5 86.  90.5 96.1], average: 85.72
+['Test Stats '] top1_per_class accuracy is: [93.8 95.5 69.4 65.6 89.4 74.8 95.5 85.6 90.3 96. ], average: 85.59
+['Test Stats '] top1_per_class accuracy is: [94.  96.2 69.2 68.2 88.4 74.4 95.3 85.  90.6 96.7], average: 85.8
+['Test Stats '] top1_per_class accuracy is: [94.8 95.6 69.  67.6 88.4 73.9 95.3 86.2 90.8 96.8], average: 85.84
+['Test Stats '] top1_per_class accuracy is: [94.3 95.9 70.1 68.3 86.8 73.3 95.2 85.5 91.9 96.5], average: 85.78
+['Test Stats '] top1_per_class accuracy is: [94.5 96.2 69.1 67.5 88.9 74.4 95.5 85.2 92.1 95.8], average: 85.92
+['Test Stats '] top1_per_class accuracy is: [94.4 95.8 68.8 68.  89.2 74.4 94.5 86.  90.6 96.5], average: 85.82
+['Test Stats '] top1_per_class accuracy is: [94.2 96.7 69.5 67.5 87.8 73.  95.2 85.1 90.2 96.1], average: 85.53
+['Test Stats '] top1_per_class accuracy is: [93.2 96.5 69.7 68.1 87.9 72.6 95.7 84.9 90.9 96.5], average: 85.6
+['Test Stats '] top1_per_class accuracy is: [93.6 96.9 70.6 67.  87.7 73.6 95.4 84.8 90.7 96.2], average: 85.65
+['Test Stats '] top1_per_class accuracy is: [92.9 97.1 70.2 68.5 89.  72.4 95.2 85.  90.8 96.3], average: 85.74
+['Test Stats '] top1_per_class accuracy is: [92.6 96.3 68.6 68.5 88.4 72.2 95.7 86.8 90.2 96.6], average: 85.59
+['Test Stats '] top1_per_class accuracy is: [92.6 96.5 68.9 66.1 89.6 72.9 95.9 86.1 91.1 96.4], average: 85.61
+['Test Stats '] top1_per_class accuracy is: [93.9 96.4 70.3 66.1 90.9 72.9 95.2 86.6 91.  96.3], average: 85.96
+['Test Stats '] top1_per_class accuracy is: [90.9 96.3 70.2 67.7 90.2 74.7 95.4 85.1 91.6 96.6], average: 85.87
+['Test Stats '] top1_per_class accuracy is: [93.2 96.6 70.1 67.4 89.  74.4 95.7 86.5 91.9 96.2], average: 86.1
+['Test Stats '] top1_per_class accuracy is: [94.7 97.2 69.8 65.9 89.8 74.  96.  88.  91.4 95.8], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [93.3 96.4 69.8 67.9 89.6 72.7 96.4 87.5 91.9 96.4], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [94.3 96.6 69.5 63.2 88.8 75.  96.5 86.6 92.  96.4], average: 85.89
+['Test Stats '] top1_per_class accuracy is: [93.9 96.6 70.1 66.1 88.3 73.7 96.2 85.4 91.4 96.8], average: 85.85
+['Test Stats '] top1_per_class accuracy is: [94.  97.  69.6 61.6 88.6 75.7 96.2 84.5 91.4 95.8], average: 85.44
+['Test Stats '] top1_per_class accuracy is: [94.5 97.3 70.  64.1 88.8 74.6 95.8 85.1 90.3 95.4], average: 85.59
+['Test Stats '] top1_per_class accuracy is: [94.4 96.1 70.  64.3 88.4 75.4 95.5 85.8 90.3 96.1], average: 85.63
+['Test Stats '] top1_per_class accuracy is: [94.  96.4 70.8 65.2 88.4 72.2 96.  87.5 90.4 96.3], average: 85.72
+['Test Stats '] top1_per_class accuracy is: [94.  96.8 71.2 64.4 89.1 71.9 95.8 88.5 91.  96.5], average: 85.92
+['Test Stats '] top1_per_class accuracy is: [93.5 97.  71.3 65.8 89.  73.8 96.2 87.5 91.3 95.4], average: 86.08
+['Test Stats '] top1_per_class accuracy is: [93.  96.5 70.9 65.  89.7 73.6 96.1 88.2 91.6 96. ], average: 86.06
+['Test Stats '] top1_per_class accuracy is: [93.3 96.7 70.  68.3 88.8 72.8 96.2 88.2 90.9 96. ], average: 86.12
+['Test Stats '] top1_per_class accuracy is: [93.5 96.9 70.4 66.3 88.6 73.9 95.8 89.1 92.2 95.9], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [92.8 96.5 71.9 65.4 89.5 75.  95.1 86.8 90.9 96.1], average: 86.0
+['Test Stats '] top1_per_class accuracy is: [94.  97.  70.2 65.9 89.5 74.7 95.3 86.7 91.8 95.8], average: 86.09
+['Test Stats '] top1_per_class accuracy is: [93.6 96.7 71.  65.6 89.3 74.7 95.3 86.3 91.2 96.4], average: 86.01
+['Test Stats '] top1_per_class accuracy is: [94.1 96.7 69.4 65.4 90.6 74.8 95.6 83.5 91.2 96.3], average: 85.76
+['Test Stats '] top1_per_class accuracy is: [94.1 96.  68.8 65.  90.3 75.2 96.8 84.3 91.2 96.2], average: 85.79
+['Test Stats '] top1_per_class accuracy is: [93.7 96.4 69.1 65.2 89.7 75.5 95.4 86.5 91.2 96.4], average: 85.91
+['Test Stats '] top1_per_class accuracy is: [93.4 96.2 70.2 66.9 89.5 74.8 95.5 86.1 91.8 96.7], average: 86.11
+['Test Stats '] top1_per_class accuracy is: [94.1 96.9 70.6 63.5 89.4 77.1 94.7 85.8 90.8 95.8], average: 85.87
+['Test Stats '] top1_per_class accuracy is: [94.7 97.6 70.9 64.5 89.5 74.7 95.1 87.5 89.4 96.1], average: 86.0
+['Test Stats '] top1_per_class accuracy is: [94.5 96.5 71.4 66.3 89.8 74.3 95.3 87.3 90.  96.4], average: 86.18
+['Test Stats '] top1_per_class accuracy is: [93.5 96.1 69.8 66.9 90.5 74.7 96.1 86.1 91.  96.1], average: 86.08
+['Test Stats '] top1_per_class accuracy is: [93.8 96.3 70.  66.5 90.2 74.7 95.  86.9 92.  95.8], average: 86.12
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 69.3 69.4 89.8 73.5 96.  85.6 92.2 95.7], average: 86.2
+['Test Stats '] top1_per_class accuracy is: [94.  96.3 70.2 69.  90.7 73.5 95.9 85.6 92.2 95.9], average: 86.33
+['Test Stats '] top1_per_class accuracy is: [93.  96.7 72.2 68.1 90.5 73.2 95.8 85.6 92.3 96. ], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [94.2 97.2 72.6 67.5 90.8 72.  96.1 87.2 91.7 95.7], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [94.  97.1 71.1 69.1 90.9 72.8 95.  86.9 91.6 95.6], average: 86.41
+['Test Stats '] top1_per_class accuracy is: [93.8 96.7 70.1 67.7 90.9 72.7 95.7 87.  91.8 95.6], average: 86.2
+['Test Stats '] top1_per_class accuracy is: [93.  96.7 71.1 67.  91.8 73.5 95.4 87.3 91.6 96. ], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [92.7 96.1 70.4 67.4 91.  74.  96.1 87.4 92.2 96.5], average: 86.38
+['Test Stats '] top1_per_class accuracy is: [94.  97.5 70.  68.1 90.  72.9 95.9 87.3 91.4 95.1], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [94.  96.6 69.4 68.3 90.3 72.5 96.  87.5 91.1 95.6], average: 86.13
+['Test Stats '] top1_per_class accuracy is: [93.6 96.1 69.7 66.  90.1 72.5 95.3 89.9 90.6 96.3], average: 86.01
+['Test Stats '] top1_per_class accuracy is: [94.2 95.9 69.8 65.6 89.6 72.9 95.5 87.6 91.1 95.9], average: 85.81
+['Test Stats '] top1_per_class accuracy is: [94.2 95.9 70.1 63.9 88.6 74.6 95.1 87.2 90.3 95.9], average: 85.58
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 70.8 67.6 88.9 73.8 95.8 87.8 90.  96.4], average: 86.16
+['Test Stats '] top1_per_class accuracy is: [93.3 95.8 69.7 69.2 90.3 72.8 96.1 87.4 91.2 97. ], average: 86.28
+['Test Stats '] top1_per_class accuracy is: [94.7 96.3 70.8 69.3 90.1 72.7 95.4 87.  91.1 96.3], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [94.9 96.  72.3 68.7 90.2 73.3 95.2 88.8 91.7 95.8], average: 86.69
+['Test Stats '] top1_per_class accuracy is: [95.2 96.9 69.6 67.1 88.1 76.2 95.5 88.4 89.9 96. ], average: 86.29
+['Test Stats '] top1_per_class accuracy is: [94.6 96.3 70.6 66.9 89.8 74.5 95.4 88.1 91.2 96.6], average: 86.4
+['Test Stats '] top1_per_class accuracy is: [93.8 96.6 69.5 69.  90.7 73.3 95.8 87.1 91.4 96.2], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [93.9 96.4 69.8 68.3 90.3 74.4 95.5 87.8 92.  96.3], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [93.2 97.5 69.  64.5 89.7 76.4 95.8 88.8 92.1 96. ], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [93.4 96.6 70.8 66.1 89.6 72.3 95.9 89.2 91.8 96.5], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [93.4 96.7 68.9 69.  89.6 72.  96.  89.8 91.4 96.7], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [93.6 96.7 70.1 69.3 89.6 71.3 95.8 88.9 91.4 97.2], average: 86.39
+['Test Stats '] top1_per_class accuracy is: [92.9 96.1 70.2 68.9 91.4 72.9 96.1 87.9 91.6 96.5], average: 86.45
+['Test Stats '] top1_per_class accuracy is: [93.7 96.3 70.2 67.2 91.  74.4 94.7 89.3 90.9 96.4], average: 86.41
+['Test Stats '] top1_per_class accuracy is: [92.9 96.5 70.  65.2 91.3 74.8 94.8 89.3 91.4 96.2], average: 86.24
+['Test Stats '] top1_per_class accuracy is: [93.3 96.7 70.1 65.2 91.2 75.4 94.9 89.7 91.1 96.2], average: 86.38
+['Test Stats '] top1_per_class accuracy is: [93.2 96.8 70.  68.7 90.3 73.  96.2 90.1 91.3 95.8], average: 86.54
+['Test Stats '] top1_per_class accuracy is: [94.  97.4 72.  67.3 88.9 73.3 96.1 89.9 91.2 94.8], average: 86.49
+['Test Stats '] top1_per_class accuracy is: [94.8 96.8 71.  63.8 89.2 75.9 95.3 88.7 90.1 95.5], average: 86.11
+['Test Stats '] top1_per_class accuracy is: [94.5 96.7 69.7 65.2 89.3 76.1 94.7 87.8 90.1 96. ], average: 86.01
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 69.4 65.2 88.3 74.6 95.3 88.5 90.8 96.5], average: 85.98
+['Test Stats '] top1_per_class accuracy is: [94.5 96.7 70.3 62.5 90.  75.  95.3 88.  91.7 95.8], average: 85.98
+['Test Stats '] top1_per_class accuracy is: [94.1 96.8 68.9 63.7 89.5 73.4 96.1 89.6 91.8 96.2], average: 86.01
+['Test Stats '] top1_per_class accuracy is: [93.6 96.5 70.2 61.4 90.3 75.3 96.1 87.2 92.  96. ], average: 85.86
+['Test Stats '] top1_per_class accuracy is: [93.2 97.1 70.5 62.6 89.8 74.3 96.2 87.1 92.2 95.9], average: 85.89
+['Test Stats '] top1_per_class accuracy is: [94.9 96.9 70.  65.  91.7 74.2 95.5 88.4 91.3 96.5], average: 86.44
+['Test Stats '] top1_per_class accuracy is: [94.4 96.6 69.1 64.7 91.3 75.8 96.3 87.1 91.3 96.4], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 69.7 66.2 90.4 74.7 95.7 86.6 91.3 96.6], average: 86.17
+['Test Stats '] top1_per_class accuracy is: [93.5 96.6 70.8 66.  88.8 75.7 95.9 86.3 92.5 96. ], average: 86.21
+['Test Stats '] top1_per_class accuracy is: [94.3 96.3 70.7 68.9 89.4 74.4 96.2 87.2 91.3 96.6], average: 86.53
+['Test Stats '] top1_per_class accuracy is: [93.5 96.4 71.  64.9 89.2 76.1 96.  87.6 91.8 96.5], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [94.1 96.1 69.6 65.3 89.5 73.5 95.9 89.3 92.1 96.7], average: 86.21
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 70.6 66.9 88.5 73.8 95.6 88.1 91.3 96.2], average: 86.15
+['Test Stats '] top1_per_class accuracy is: [95.1 96.3 68.7 66.3 88.9 72.5 95.8 87.9 91.7 97. ], average: 86.02
+['Test Stats '] top1_per_class accuracy is: [94.9 96.5 70.6 67.9 89.2 72.9 95.4 89.5 91.6 96.5], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [93.9 96.8 70.5 68.7 90.4 73.5 95.7 87.8 91.9 96.6], average: 86.58
+['Test Stats '] top1_per_class accuracy is: [93.6 96.  70.4 69.  90.8 73.5 95.3 88.5 91.7 97.1], average: 86.59
+['Test Stats '] top1_per_class accuracy is: [93.9 95.4 70.5 67.5 89.8 74.  95.9 88.3 91.1 96.9], average: 86.33
+['Test Stats '] top1_per_class accuracy is: [93.6 96.1 70.5 65.3 88.7 73.  96.5 88.1 91.8 96.8], average: 86.04
+['Test Stats '] top1_per_class accuracy is: [94.3 96.6 70.7 67.6 89.9 74.3 95.7 88.4 91.5 96.1], average: 86.51
+['Test Stats '] top1_per_class accuracy is: [94.6 95.8 69.5 66.5 89.4 73.3 96.1 88.5 91.8 96.4], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [94.2 96.2 70.3 69.  88.8 72.9 95.4 87.9 90.8 96.4], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [95.  96.8 69.7 65.6 90.3 73.1 95.7 88.4 91.  95.8], average: 86.14
+['Test Stats '] top1_per_class accuracy is: [94.8 96.3 69.3 66.8 90.4 72.9 96.1 88.6 91.3 95.7], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [93.9 96.8 69.8 68.  90.2 73.9 96.  88.  91.9 95.8], average: 86.43
+['Test Stats '] top1_per_class accuracy is: [94.6 96.6 70.1 67.  90.  74.1 95.7 88.3 91.6 95.9], average: 86.39
+['Test Stats '] top1_per_class accuracy is: [94.2 96.8 69.3 67.  90.7 73.2 95.7 88.9 91.7 96.9], average: 86.44
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 70.5 66.3 90.5 74.8 95.2 87.  91.9 96.8], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [93.7 96.3 70.2 68.2 89.8 73.3 94.7 86.5 92.3 96.8], average: 86.18
+['Test Stats '] top1_per_class accuracy is: [94.4 97.4 70.5 66.5 89.8 75.9 94.9 85.4 92.1 95.8], average: 86.27
+['Test Stats '] top1_per_class accuracy is: [94.3 96.4 70.8 65.7 91.6 74.5 94.9 86.  92.  96.1], average: 86.23
+['Test Stats '] top1_per_class accuracy is: [94.  96.6 71.5 65.3 91.  74.6 95.2 86.4 92.4 95.6], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [95.1 96.5 71.1 64.3 90.1 74.8 95.4 86.1 91.5 95.9], average: 86.08
+['Test Stats '] top1_per_class accuracy is: [94.3 96.1 70.7 66.  90.1 76.2 95.3 85.7 91.7 96.1], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [94.4 95.6 71.8 63.9 91.7 74.5 94.9 86.  91.7 96.2], average: 86.07
+['Test Stats '] top1_per_class accuracy is: [94.3 95.8 69.6 63.2 91.1 75.  95.5 87.7 91.3 96.8], average: 86.03
+['Test Stats '] top1_per_class accuracy is: [93.9 96.6 70.1 67.9 89.7 74.2 94.7 86.8 92.  96.2], average: 86.21
+['Test Stats '] top1_per_class accuracy is: [93.9 96.6 70.1 67.9 90.9 73.5 95.5 86.3 91.6 95.6], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [94.5 97.3 70.7 65.1 91.  74.4 94.9 86.7 91.6 96. ], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [94.9 96.7 70.  67.1 90.3 72.5 95.2 87.5 91.4 95.9], average: 86.15
+['Test Stats '] top1_per_class accuracy is: [93.9 96.6 70.5 66.6 91.1 72.4 95.2 87.5 91.5 96.4], average: 86.17
+['Test Stats '] top1_per_class accuracy is: [92.9 96.1 70.1 67.4 91.  73.  95.  87.3 91.9 95.9], average: 86.06
+['Test Stats '] top1_per_class accuracy is: [94.4 97.2 69.9 64.7 90.4 74.8 95.3 87.6 91.9 94.8], average: 86.1
+['Test Stats '] top1_per_class accuracy is: [93.7 96.7 69.5 67.3 90.8 72.8 95.5 87.  92.  95.4], average: 86.07
+['Test Stats '] top1_per_class accuracy is: [94.6 96.5 70.4 67.  89.9 72.5 96.  88.2 91.4 95.4], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [93.3 96.3 71.  66.4 91.1 72.7 96.  87.6 91.7 96.1], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [93.7 96.3 70.6 66.9 91.  73.6 95.5 88.7 91.8 96. ], average: 86.41
+['Test Stats '] top1_per_class accuracy is: [94.5 96.  70.2 66.7 90.3 73.2 95.3 87.8 91.7 96.1], average: 86.18
+['Test Stats '] top1_per_class accuracy is: [94.  96.2 69.9 64.9 90.7 74.  95.7 87.5 92.4 95.9], average: 86.12
+['Test Stats '] top1_per_class accuracy is: [93.3 96.2 70.4 66.2 90.8 74.6 95.6 88.1 91.2 96.4], average: 86.28
+['Test Stats '] top1_per_class accuracy is: [94.3 96.5 69.5 66.4 90.7 74.5 95.7 89.3 91.  95.7], average: 86.36
+['Test Stats '] top1_per_class accuracy is: [94.1 96.6 70.1 66.3 90.9 74.  95.1 89.8 91.6 95.5], average: 86.4
+['Test Stats '] top1_per_class accuracy is: [95.  96.3 71.8 68.7 92.1 73.9 94.9 89.2 91.2 95.7], average: 86.88
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 69.9 67.6 92.4 75.  96.4 88.7 92.2 95.8], average: 86.79
+['Test Stats '] top1_per_class accuracy is: [94.1 96.6 69.7 66.4 91.4 75.  96.5 88.6 92.3 95.4], average: 86.6
+['Test Stats '] top1_per_class accuracy is: [94.3 95.4 68.9 67.5 92.6 74.3 95.7 88.2 91.8 96.2], average: 86.49
+['Test Stats '] top1_per_class accuracy is: [94.7 96.6 69.4 67.4 92.  72.9 95.9 88.5 91.5 95.9], average: 86.48
+['Test Stats '] top1_per_class accuracy is: [94.5 96.7 68.  67.7 91.3 72.8 96.1 88.6 91.7 95.6], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [94.3 95.8 68.5 68.8 90.6 73.2 95.2 89.5 91.3 96.7], average: 86.39
+['Test Stats '] top1_per_class accuracy is: [93.6 96.1 68.5 67.1 91.1 73.1 95.9 89.4 91.7 96.4], average: 86.29
+['Test Stats '] top1_per_class accuracy is: [94.6 95.9 69.2 64.8 90.4 73.8 95.8 88.5 92.2 96.4], average: 86.16
+['Test Stats '] top1_per_class accuracy is: [94.9 95.7 68.7 66.7 89.9 74.4 96.3 90.1 92.  96.3], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [95.3 96.2 70.6 68.  91.3 75.9 95.9 89.9 91.9 96.2], average: 87.12
+['Test Stats '] top1_per_class accuracy is: [95.  96.1 69.8 67.9 90.1 74.5 94.8 90.4 91.2 96.3], average: 86.61
+['Test Stats '] top1_per_class accuracy is: [94.8 96.3 70.6 66.3 90.5 74.4 95.5 90.3 92.3 96.7], average: 86.77
+['Test Stats '] top1_per_class accuracy is: [95.6 96.4 69.5 63.3 91.3 73.8 95.7 89.  92.1 96.8], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [95.2 97.  70.1 64.4 90.8 74.7 95.  89.8 91.7 96.1], average: 86.48
+['Test Stats '] top1_per_class accuracy is: [95.  97.  68.2 64.6 91.2 73.6 97.  88.  92.  95.3], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [95.2 96.7 69.1 64.2 91.4 75.1 96.7 89.  91.4 95.9], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [95.  95.6 68.6 63.8 91.  75.9 96.1 88.8 91.4 96.4], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [94.4 95.8 68.9 65.5 92.  74.9 96.1 88.7 91.4 96.1], average: 86.38
+['Test Stats '] top1_per_class accuracy is: [94.3 96.8 70.1 67.4 89.6 73.9 96.3 88.2 92.8 95.7], average: 86.51
+['Test Stats '] top1_per_class accuracy is: [94.1 96.2 70.3 67.8 90.8 72.6 96.3 88.3 92.4 96.1], average: 86.49
+['Test Stats '] top1_per_class accuracy is: [94.8 95.7 70.2 67.1 90.8 73.1 96.3 89.  91.7 96. ], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [94.3 95.5 69.6 68.2 90.1 73.7 96.3 90.4 92.1 96.2], average: 86.64
+['Test Stats '] top1_per_class accuracy is: [93.2 95.7 69.9 66.8 90.6 73.8 96.8 89.2 92.2 96.6], average: 86.48
+['Test Stats '] top1_per_class accuracy is: [93.6 95.2 68.7 70.5 89.2 75.  96.6 89.6 92.  96.6], average: 86.7
+['Test Stats '] top1_per_class accuracy is: [93.8 94.9 70.9 70.2 89.9 73.9 96.4 89.8 92.  97. ], average: 86.88
+['Test Stats '] top1_per_class accuracy is: [94.2 95.7 70.  66.9 89.6 74.8 96.6 89.2 91.9 96.8], average: 86.57
+['Test Stats '] top1_per_class accuracy is: [92.9 95.8 70.8 68.7 90.3 74.2 95.7 89.6 91.9 96.8], average: 86.67
+['Test Stats '] top1_per_class accuracy is: [92.7 95.7 70.5 69.7 90.9 72.9 95.2 90.4 92.6 97.4], average: 86.8
+['Test Stats '] top1_per_class accuracy is: [93.5 95.8 71.2 69.9 91.2 73.6 96.1 90.2 92.3 97. ], average: 87.08
+['Test Stats '] top1_per_class accuracy is: [92.9 95.8 71.2 67.  91.4 74.3 95.8 89.2 92.5 97.1], average: 86.72
+['Test Stats '] top1_per_class accuracy is: [94.4 96.8 71.4 67.2 90.1 73.2 96.5 89.8 91.8 96.5], average: 86.77
+['Test Stats '] top1_per_class accuracy is: [94.5 96.  70.5 65.9 91.5 75.  95.9 88.2 91.4 96.7], average: 86.56
+['Test Stats '] top1_per_class accuracy is: [95.1 96.1 70.9 64.9 90.7 73.  95.7 88.7 91.1 96.3], average: 86.25
+['Test Stats '] top1_per_class accuracy is: [94.3 96.1 69.6 65.3 90.6 73.4 95.9 85.8 91.8 96.5], average: 85.93
+['Test Stats '] top1_per_class accuracy is: [94.  95.5 69.4 67.8 90.9 72.5 96.  87.4 91.8 96.1], average: 86.14
+['Test Stats '] top1_per_class accuracy is: [94.  96.  68.9 67.  91.2 73.2 96.6 88.4 92.1 95.7], average: 86.31
+['Test Stats '] top1_per_class accuracy is: [93.7 96.1 71.  67.8 90.5 74.2 95.2 88.2 91.1 95.9], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [94.5 95.7 70.1 66.6 90.7 73.9 95.1 88.6 91.  96. ], average: 86.22
+['Test Stats '] top1_per_class accuracy is: [94.  95.9 70.  65.6 91.5 74.3 95.7 88.2 91.9 96. ], average: 86.31
+['Test Stats '] top1_per_class accuracy is: [94.  96.8 70.  66.7 91.5 74.2 95.4 87.8 91.9 96. ], average: 86.43
+['Test Stats '] top1_per_class accuracy is: [93.4 96.4 68.2 66.6 91.4 74.2 96.1 87.6 92.4 96.4], average: 86.27
+['Test Stats '] top1_per_class accuracy is: [94.2 96.3 69.3 65.4 89.9 73.3 96.5 88.1 92.3 95.7], average: 86.1
+['Test Stats '] top1_per_class accuracy is: [94.6 95.9 68.9 68.  90.1 72.5 96.2 89.  91.9 96.6], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [94.5 95.3 69.8 65.5 91.3 74.  96.6 89.2 92.4 96.8], average: 86.54
+['Test Stats '] top1_per_class accuracy is: [93.6 95.6 70.1 63.8 91.  75.1 96.5 89.3 92.8 96.2], average: 86.4
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 70.9 65.4 90.5 74.9 95.4 89.5 92.1 96.1], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [94.2 95.9 70.1 64.2 90.4 75.  96.5 89.  92.2 95.9], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 69.7 67.1 90.3 75.1 96.5 87.6 92.7 95.5], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 70.9 69.5 90.2 74.5 96.2 88.5 92.5 96.2], average: 86.84
+['Test Stats '] top1_per_class accuracy is: [92.6 96.2 71.3 68.8 91.3 75.5 95.8 90.7 92.2 96.5], average: 87.09
+['Test Stats '] top1_per_class accuracy is: [93.  96.3 71.2 66.5 91.3 75.4 95.5 89.6 91.7 96.7], average: 86.72
+['Test Stats '] top1_per_class accuracy is: [94.2 96.4 71.9 68.3 90.8 75.  95.3 87.8 92.4 95.7], average: 86.78
+['Test Stats '] top1_per_class accuracy is: [94.6 96.  70.5 64.9 91.3 73.5 96.3 88.8 92.9 96.3], average: 86.51
+['Test Stats '] top1_per_class accuracy is: [95.3 96.7 71.3 67.5 90.7 72.6 95.7 89.2 92.3 96.3], average: 86.76
+['Test Stats '] top1_per_class accuracy is: [95.2 96.  70.  69.2 89.5 73.1 95.3 87.4 91.7 97.2], average: 86.46
+['Test Stats '] top1_per_class accuracy is: [95.5 96.1 70.5 67.7 90.2 73.2 95.9 88.3 92.  96.5], average: 86.59
+['Test Stats '] top1_per_class accuracy is: [94.7 96.  70.1 67.1 89.9 73.3 96.3 88.9 92.1 96.6], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [93.9 96.7 70.4 65.5 90.8 72.8 96.4 89.1 92.1 96. ], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [93.7 96.6 70.6 67.5 90.  71.8 96.5 89.9 92.2 96.4], average: 86.52
+['Test Stats '] top1_per_class accuracy is: [93.9 96.1 70.6 67.4 89.4 72.8 95.6 90.2 92.9 96.2], average: 86.51
+['Test Stats '] top1_per_class accuracy is: [93.1 95.9 71.  68.8 89.2 73.2 95.9 87.4 92.  96.6], average: 86.31
+['Test Stats '] top1_per_class accuracy is: [91.8 96.  70.9 68.3 90.8 74.5 95.5 87.2 92.3 96.8], average: 86.41
+['Test Stats '] top1_per_class accuracy is: [93.8 96.3 70.  67.8 91.6 72.  96.  87.4 92.2 96.6], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [93.4 95.6 68.9 68.4 91.4 71.6 95.9 86.5 92.3 96.4], average: 86.04
+['Test Stats '] top1_per_class accuracy is: [93.  95.7 68.9 69.5 91.8 70.9 95.  88.3 92.4 96.5], average: 86.2
+['Test Stats '] top1_per_class accuracy is: [94.1 95.9 69.6 66.8 92.6 73.4 95.7 88.9 91.7 96. ], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [93.7 95.5 70.3 66.3 91.3 73.2 96.2 88.6 92.5 96. ], average: 86.36
+['Test Stats '] top1_per_class accuracy is: [92.5 95.9 70.8 66.4 91.7 73.2 96.  88.2 92.4 95.8], average: 86.29
+['Test Stats '] top1_per_class accuracy is: [94.2 96.  71.5 66.5 90.9 71.  95.9 88.2 91.4 96.7], average: 86.23
+['Test Stats '] top1_per_class accuracy is: [92.7 96.3 70.4 69.1 90.5 71.1 95.2 89.  92.4 96.8], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [93.6 96.7 71.1 67.6 91.6 71.2 95.4 88.1 91.9 96. ], average: 86.32
+['Test Stats '] top1_per_class accuracy is: [94.1 96.9 69.7 63.8 91.8 73.2 95.5 89.4 92.1 95.8], average: 86.23
+['Test Stats '] top1_per_class accuracy is: [94.3 96.1 70.4 64.2 89.9 73.4 95.7 90.5 92.  96.1], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [94.1 95.9 70.1 65.5 91.1 73.9 95.8 89.2 92.1 96.7], average: 86.44
+['Test Stats '] top1_per_class accuracy is: [93.9 95.7 70.4 65.1 90.9 73.9 95.4 88.1 92.1 96.4], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [93.5 95.8 71.2 63.8 90.9 74.8 95.9 87.5 91.9 96.5], average: 86.18
+['Test Stats '] top1_per_class accuracy is: [94.  95.7 71.4 64.2 90.5 73.4 95.3 88.6 92.8 96.6], average: 86.25
+['Test Stats '] top1_per_class accuracy is: [93.5 96.5 70.6 67.1 89.7 73.4 95.9 89.3 91.1 96. ], average: 86.31
+['Test Stats '] top1_per_class accuracy is: [93.7 96.4 70.2 67.  91.3 71.8 95.2 89.6 91.  96.5], average: 86.27
+['Test Stats '] top1_per_class accuracy is: [94.5 96.9 69.8 65.6 90.4 74.4 95.8 88.1 91.  96.5], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [93.3 95.9 71.2 65.3 91.1 74.3 96.  87.5 92.2 96.6], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [94.8 96.5 70.3 65.9 90.  75.1 96.6 87.6 91.7 95.9], average: 86.44
+['Test Stats '] top1_per_class accuracy is: [94.3 96.8 70.7 66.  90.1 75.  96.3 88.2 92.6 95.7], average: 86.57
+['Test Stats '] top1_per_class accuracy is: [94.  96.9 69.8 63.8 89.3 75.3 96.3 90.  91.9 96.2], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [93.  95.8 67.9 65.  88.8 76.6 96.6 89.4 92.3 96.4], average: 86.18
+['Test Stats '] top1_per_class accuracy is: [93.  97.  70.6 67.5 88.8 74.5 96.4 90.2 92.1 96.3], average: 86.64
+['Test Stats '] top1_per_class accuracy is: [94.1 96.7 71.1 65.7 89.4 74.3 95.9 90.3 91.4 95.7], average: 86.46
+['Test Stats '] top1_per_class accuracy is: [93.2 96.2 71.4 65.5 89.3 73.9 95.5 91.  92.3 96.4], average: 86.47
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 70.2 66.3 90.6 70.9 96.3 90.7 91.6 96.8], average: 86.33
+['Test Stats '] top1_per_class accuracy is: [93.7 96.4 70.5 66.1 89.7 72.1 95.5 91.9 91.7 96. ], average: 86.36
+['Test Stats '] top1_per_class accuracy is: [93.8 96.2 70.3 68.1 90.3 73.1 95.8 90.1 91.9 95.9], average: 86.55
+['Test Stats '] top1_per_class accuracy is: [94.  96.2 71.1 65.8 90.3 73.9 95.8 90.3 91.7 96.4], average: 86.55
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 70.9 69.4 89.6 72.2 96.1 91.  92.1 95.8], average: 86.76
+['Test Stats '] top1_per_class accuracy is: [94.4 96.2 70.7 67.7 91.1 72.6 95.5 89.8 91.7 96.6], average: 86.63
+['Test Stats '] top1_per_class accuracy is: [94.5 96.8 70.1 68.1 90.7 72.3 94.7 89.4 92.2 96. ], average: 86.48
+['Test Stats '] top1_per_class accuracy is: [94.8 96.9 69.6 66.4 90.8 73.3 95.5 88.9 91.7 95.6], average: 86.35
+['Test Stats '] top1_per_class accuracy is: [92.5 96.2 71.1 62.8 92.1 74.3 95.9 89.3 92.3 96.5], average: 86.3
+['Test Stats '] top1_per_class accuracy is: [93.9 95.8 70.5 64.1 91.1 72.4 95.9 90.  91.4 97. ], average: 86.21
+['Test Stats '] top1_per_class accuracy is: [94.1 95.8 69.6 65.4 91.4 72.2 96.3 88.9 91.9 96.9], average: 86.25
+['Test Stats '] top1_per_class accuracy is: [94.9 96.1 70.1 66.3 91.5 74.2 96.3 89.1 91.9 96.8], average: 86.72
+['Test Stats '] top1_per_class accuracy is: [94.  96.3 70.4 68.7 90.5 73.3 96.4 90.4 91.8 96.3], average: 86.81
+['Test Stats '] top1_per_class accuracy is: [94.4 95.3 70.2 68.7 91.8 71.8 96.3 90.4 91.6 96.6], average: 86.71
+['Test Stats '] top1_per_class accuracy is: [94.9 96.1 71.  67.6 90.9 71.8 96.6 90.4 92.  96.4], average: 86.77
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 70.5 66.7 91.4 73.2 97.1 89.7 91.8 96.6], average: 86.82
+['Test Stats '] top1_per_class accuracy is: [95.3 96.3 69.4 69.  90.6 72.4 96.8 89.8 92.2 96.3], average: 86.81
+['Test Stats '] top1_per_class accuracy is: [95.1 96.3 69.  69.1 90.6 73.7 95.7 89.4 91.5 96.7], average: 86.71
+['Test Stats '] top1_per_class accuracy is: [95.  96.9 68.9 66.6 91.4 73.5 96.4 91.4 91.6 96.3], average: 86.8
+['Test Stats '] top1_per_class accuracy is: [94.3 96.9 70.7 68.7 91.3 71.4 96.8 90.7 92.1 96.4], average: 86.93
+['Test Stats '] top1_per_class accuracy is: [94.5 97.  70.7 68.7 91.6 72.7 96.3 90.2 91.  96.4], average: 86.91
+['Test Stats '] top1_per_class accuracy is: [93.5 96.7 70.4 68.9 91.6 73.5 96.2 88.2 91.7 96.4], average: 86.71
+['Test Stats '] top1_per_class accuracy is: [94.8 96.7 70.4 67.4 91.9 74.2 96.7 87.2 91.8 96.4], average: 86.75
+['Test Stats '] top1_per_class accuracy is: [94.5 96.  69.9 67.9 90.9 73.2 95.8 89.3 91.2 96.6], average: 86.53
+['Test Stats '] top1_per_class accuracy is: [94.1 96.3 68.9 65.3 91.6 73.9 96.1 88.7 90.9 96.3], average: 86.21
+['Test Stats '] top1_per_class accuracy is: [93.1 96.8 69.1 66.2 91.6 74.2 96.2 88.6 91.3 96. ], average: 86.31
+['Test Stats '] top1_per_class accuracy is: [94.4 96.1 70.  65.8 91.  74.8 95.9 89.9 91.5 96.6], average: 86.6
+['Test Stats '] top1_per_class accuracy is: [94.  96.8 69.8 68.  90.7 74.9 96.  90.8 91.2 95.8], average: 86.8
+['Test Stats '] top1_per_class accuracy is: [94.8 97.1 70.2 66.  89.1 74.6 97.  90.7 91.4 95.8], average: 86.67
+['Test Stats '] top1_per_class accuracy is: [94.2 97.1 71.  66.4 89.7 73.8 96.6 90.8 91.9 95.9], average: 86.74
+['Test Stats '] top1_per_class accuracy is: [94.  96.7 69.8 64.3 90.2 72.9 96.7 90.1 91.6 96.3], average: 86.26
+['Test Stats '] top1_per_class accuracy is: [94.1 96.4 70.2 65.8 89.9 75.  95.8 89.2 92.2 96.4], average: 86.5
+['Test Stats '] top1_per_class accuracy is: [95.9 96.8 68.9 62.5 91.3 74.  96.8 90.6 92.2 96.2], average: 86.52
+['Test Stats '] top1_per_class accuracy is: [94.7 97.2 69.8 66.4 90.7 73.1 96.3 89.5 91.9 95.7], average: 86.53
+['Test Stats '] top1_per_class accuracy is: [95.  96.4 70.4 63.9 90.4 74.1 95.6 89.2 91.2 95.8], average: 86.2
+['Test Stats '] top1_per_class accuracy is: [94.6 95.7 70.  65.7 90.6 71.5 96.2 89.3 92.1 96.2], average: 86.19
+['Test Stats '] top1_per_class accuracy is: [94.2 95.8 70.  67.  90.7 71.7 96.6 89.3 91.5 95.6], average: 86.24
+['Test Stats '] top1_per_class accuracy is: [94.4 95.4 70.1 63.2 90.7 73.7 96.6 89.9 91.7 96.3], average: 86.2
+['Test Stats '] top1_per_class accuracy is: [95.2 96.1 71.1 64.4 91.4 74.  96.  89.7 91.8 95.6], average: 86.53
+['Test Stats '] top1_per_class accuracy is: [94.6 96.2 70.1 62.2 91.5 73.7 96.1 89.9 91.9 96.7], average: 86.29
+['Test Stats '] top1_per_class accuracy is: [93.5 96.1 69.5 61.8 91.5 73.3 96.8 88.5 91.9 97.1], average: 86.0
+['Test Stats '] top1_per_class accuracy is: [94.2 97.2 70.3 63.8 91.2 74.9 96.2 88.8 92.5 96.6], average: 86.57
+['Test Stats '] top1_per_class accuracy is: [95.4 96.5 70.3 64.7 90.3 74.2 96.2 89.3 91.9 96.1], average: 86.49
+['Test Stats '] top1_per_class accuracy is: [94.1 96.7 69.  66.6 90.8 73.9 96.1 89.9 92.4 96.6], average: 86.61
+['Test Stats '] top1_per_class accuracy is: [93.9 96.2 71.  65.9 90.7 74.1 96.2 89.6 92.4 96.3], average: 86.63
+['Test Stats '] top1_per_class accuracy is: [93.8 96.5 71.5 64.7 91.3 74.2 96.5 90.2 91.9 96.4], average: 86.7
+['Test Stats '] top1_per_class accuracy is: [95.1 96.  71.3 66.3 91.1 73.9 95.9 90.  92.1 96.2], average: 86.79
+['Test Stats '] top1_per_class accuracy is: [95.  96.4 71.7 67.  92.2 73.2 96.2 90.1 92.  96.2], average: 87.0
+['Test Stats '] top1_per_class accuracy is: [94.5 96.1 70.9 68.2 92.2 71.  96.4 91.4 91.6 96.3], average: 86.86
+['Test Stats '] top1_per_class accuracy is: [94.1 95.9 71.3 67.5 91.4 73.  96.2 90.4 91.9 96.2], average: 86.79
+['Test Stats '] top1_per_class accuracy is: [95.  95.6 70.3 66.5 91.5 73.3 95.8 90.5 90.5 96.4], average: 86.54
+['Test Stats '] top1_per_class accuracy is: [94.5 96.6 69.5 65.5 91.4 74.2 96.3 90.9 91.4 96. ], average: 86.63
+['Test Stats '] top1_per_class accuracy is: [94.3 96.3 71.6 64.7 90.8 73.  96.  91.5 92.1 95.8], average: 86.61
+['Test Stats '] top1_per_class accuracy is: [92.8 95.  70.7 66.1 91.  74.3 95.9 88.7 91.9 97. ], average: 86.34
+['Test Stats '] top1_per_class accuracy is: [93.7 96.1 70.2 68.2 92.2 71.1 96.2 89.1 92.2 96.1], average: 86.51
+['Test Stats '] top1_per_class accuracy is: [94.  97.2 69.9 66.5 91.4 71.9 96.9 90.7 92.2 95.4], average: 86.61
+['Test Stats '] top1_per_class accuracy is: [94.6 96.6 71.3 66.6 90.9 72.4 95.9 89.1 92.5 95.7], average: 86.56
+['Test Stats '] top1_per_class accuracy is: [94.5 96.6 70.4 65.9 91.1 74.3 96.1 90.4 91.9 96.1], average: 86.73
+['Test Stats '] top1_per_class accuracy is: [94.4 96.4 71.5 63.3 90.4 75.6 95.8 90.8 91.9 96.7], average: 86.68
+['Test Stats '] top1_per_class accuracy is: [95.2 96.  72.2 62.6 90.6 74.6 95.6 91.  91.6 96.7], average: 86.61
+['Test Stats '] top1_per_class accuracy is: [95.4 96.8 71.7 64.2 90.6 74.  96.4 91.8 92.3 95.9], average: 86.91
+['Test Stats '] top1_per_class accuracy is: [94.7 96.7 69.4 63.7 91.2 73.9 96.2 91.8 92.4 95.9], average: 86.59
+['Test Stats '] top1_per_class accuracy is: [94.1 96.8 69.6 64.6 90.4 73.8 95.7 91.7 91.5 95.9], average: 86.41
+['Test Stats '] top1_per_class accuracy is: [94.1 96.3 69.5 63.5 91.8 73.1 96.7 90.9 92.1 95.7], average: 86.37
+['Test Stats '] top1_per_class accuracy is: [94.4 96.4 69.5 64.7 90.9 73.5 97.  91.6 92.  96.4], average: 86.64
+['Test Stats '] top1_per_class accuracy is: [94.  96.1 70.6 64.3 91.1 73.1 96.3 92.  92.1 96.4], average: 86.6
+['Test Stats '] top1_per_class accuracy is: [94.8 96.2 70.5 66.  92.3 72.4 96.5 91.2 92.5 96. ], average: 86.84
+['Test Stats '] top1_per_class accuracy is: [94.7 96.8 69.6 66.8 91.4 73.5 96.9 89.8 91.6 95.8], average: 86.69
+['Test Stats '] top1_per_class accuracy is: [95.  96.5 69.3 67.6 92.7 72.7 96.5 91.3 92.3 96.1], average: 87.0
+['Test Stats '] top1_per_class accuracy is: [95.4 96.4 71.1 66.5 93.1 73.6 96.3 91.6 91.7 95.9], average: 87.16
+['Test Stats '] top1_per_class accuracy is: [95.4 96.5 71.  66.1 92.2 75.9 96.3 91.1 91.6 96. ], average: 87.21
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 70.7 66.8 92.  75.2 96.8 91.1 91.8 96.1], average: 87.17
+['Test Stats '] top1_per_class accuracy is: [94.7 95.5 70.9 68.3 90.9 76.2 95.6 92.  92.5 96.1], average: 87.27
+['Test Stats '] top1_per_class accuracy is: [95.  97.  71.4 69.  90.5 74.3 96.1 92.2 92.1 95.8], average: 87.34
+['Test Stats '] top1_per_class accuracy is: [94.4 96.1 71.7 69.3 90.6 75.8 96.1 91.2 92.1 96. ], average: 87.33
+['Test Stats '] top1_per_class accuracy is: [94.9 96.5 74.4 71.  90.6 75.2 96.1 90.5 91.9 95.6], average: 87.67
+['Test Stats '] top1_per_class accuracy is: [94.6 96.8 73.9 70.7 89.5 73.9 96.6 90.9 92.1 95.9], average: 87.49
+['Test Stats '] top1_per_class accuracy is: [95.  96.9 73.2 69.2 90.2 73.4 97.2 91.2 92.2 95.5], average: 87.4
+['Test Stats '] top1_per_class accuracy is: [95.1 96.3 73.6 70.  91.5 73.2 96.2 90.6 92.1 96.5], average: 87.51
+['Test Stats '] top1_per_class accuracy is: [94.2 96.6 76.5 69.7 91.3 72.8 96.5 90.7 92.4 95.7], average: 87.64
+['Test Stats '] top1_per_class accuracy is: [94.9 96.2 77.9 68.2 90.1 72.3 96.5 90.2 92.  95.6], average: 87.39
+['Test Stats '] top1_per_class accuracy is: [94.3 96.7 79.8 67.6 90.5 75.2 95.2 90.9 91.8 96. ], average: 87.8
+['Test Stats '] top1_per_class accuracy is: [94.  96.8 77.  67.7 89.3 76.  95.9 90.5 91.6 95.1], average: 87.39
+['Test Stats '] top1_per_class accuracy is: [94.3 96.5 78.9 65.6 89.8 75.7 96.2 91.4 91.8 96. ], average: 87.62
+['Test Stats '] top1_per_class accuracy is: [94.5 95.4 78.7 66.4 90.4 74.3 95.5 91.8 92.1 96.6], average: 87.57
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 77.8 64.1 89.7 75.5 95.6 92.1 91.8 96.4], average: 87.42
+['Test Stats '] top1_per_class accuracy is: [94.4 96.6 79.6 63.7 90.4 75.6 96.6 91.6 92.5 96.3], average: 87.73
+['Test Stats '] top1_per_class accuracy is: [94.1 96.2 80.2 66.7 90.4 73.8 96.2 92.2 92.3 96.4], average: 87.85
+['Test Stats '] top1_per_class accuracy is: [94.6 95.6 78.9 69.2 90.1 73.1 95.5 92.8 92.2 96.6], average: 87.86
+['Test Stats '] top1_per_class accuracy is: [94.8 96.3 78.7 68.6 90.4 73.1 95.7 91.7 91.8 95.9], average: 87.7
+['Test Stats '] top1_per_class accuracy is: [94.2 96.  80.2 64.7 90.9 75.6 95.4 89.4 91.6 96.1], average: 87.41
+['Test Stats '] top1_per_class accuracy is: [94.5 96.7 81.4 63.7 90.5 76.8 95.6 88.3 92.2 95.9], average: 87.56
+['Test Stats '] top1_per_class accuracy is: [93.9 96.1 80.4 64.2 90.5 76.3 94.7 88.8 92.2 96.5], average: 87.36
+['Test Stats '] top1_per_class accuracy is: [93.  95.7 80.  63.9 92.2 76.4 94.6 90.6 92.2 96.5], average: 87.51
+['Test Stats '] top1_per_class accuracy is: [95.  95.9 79.7 62.3 90.3 74.8 95.4 91.3 91.9 96.6], average: 87.32
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 80.3 64.6 90.6 74.2 95.7 91.8 91.9 96. ], average: 87.63
+['Test Stats '] top1_per_class accuracy is: [95.  96.3 78.1 65.  90.  75.  95.8 90.8 91.3 95.9], average: 87.32
+['Test Stats '] top1_per_class accuracy is: [94.6 96.  78.  65.7 90.4 73.9 95.2 90.7 92.7 96.2], average: 87.34
+['Test Stats '] top1_per_class accuracy is: [94.5 96.8 78.6 66.3 89.1 73.1 95.5 90.4 92.3 96.1], average: 87.27
+['Test Stats '] top1_per_class accuracy is: [95.1 96.8 78.8 65.6 89.2 74.  95.4 89.5 92.  95.9], average: 87.23
+['Test Stats '] top1_per_class accuracy is: [95.1 97.1 79.1 66.6 91.3 73.4 95.9 88.9 92.2 96.3], average: 87.59
+['Test Stats '] top1_per_class accuracy is: [94.2 96.1 79.  64.5 91.3 75.9 95.  88.6 92.2 96.5], average: 87.33
+['Test Stats '] top1_per_class accuracy is: [94.6 96.  79.6 67.5 92.3 75.6 95.  86.6 92.2 96.5], average: 87.59
+['Test Stats '] top1_per_class accuracy is: [95.2 96.3 80.6 66.9 91.5 75.1 95.4 87.3 91.9 96. ], average: 87.62
+['Test Stats '] top1_per_class accuracy is: [95.2 96.3 79.6 68.5 91.2 72.9 95.8 89.  92.4 95.9], average: 87.68
+['Test Stats '] top1_per_class accuracy is: [94.7 95.8 79.1 70.1 90.1 73.5 95.4 89.2 91.4 96.8], average: 87.61
+['Test Stats '] top1_per_class accuracy is: [95.5 96.2 78.9 65.6 90.  74.6 95.7 89.1 92.2 95.9], average: 87.37
+['Test Stats '] top1_per_class accuracy is: [94.4 95.9 80.7 67.3 90.6 74.9 95.4 88.6 91.7 96. ], average: 87.55
+['Test Stats '] top1_per_class accuracy is: [95.3 96.6 81.5 68.4 89.7 72.3 95.6 90.2 91.5 96.1], average: 87.72
+['Test Stats '] top1_per_class accuracy is: [95.  96.8 81.  65.8 91.3 72.  96.2 89.1 91.7 95.9], average: 87.48
+['Test Stats '] top1_per_class accuracy is: [94.7 97.2 80.8 65.7 91.1 71.4 96.  90.4 92.  95.9], average: 87.52
+['Test Stats '] top1_per_class accuracy is: [94.3 96.7 80.  67.3 91.3 71.8 96.2 90.6 91.5 95.8], average: 87.55
+['Test Stats '] top1_per_class accuracy is: [93.4 96.4 79.6 66.5 90.  74.1 96.  91.5 91.7 96. ], average: 87.52
+['Test Stats '] top1_per_class accuracy is: [93.6 96.7 79.9 67.2 91.5 74.1 95.  90.1 91.6 96.1], average: 87.58
+['Test Stats '] top1_per_class accuracy is: [95.1 97.1 80.7 66.8 91.1 74.6 96.1 88.2 91.6 95.9], average: 87.72
+['Test Stats '] top1_per_class accuracy is: [93.6 95.8 78.7 65.7 91.  74.2 96.2 89.5 92.1 96.8], average: 87.36
+['Test Stats '] top1_per_class accuracy is: [94.8 96.4 80.6 64.6 91.4 72.9 95.  89.7 91.2 96.7], average: 87.33
+['Test Stats '] top1_per_class accuracy is: [94.9 95.9 80.6 61.6 90.5 73.9 95.6 90.9 91.5 96.7], average: 87.21
+['Test Stats '] top1_per_class accuracy is: [93.9 96.  79.5 61.3 91.2 74.  95.2 91.  92.1 97.1], average: 87.13
+['Test Stats '] top1_per_class accuracy is: [93.9 96.6 81.  64.8 90.6 71.9 95.8 91.  92.1 96.8], average: 87.45
+['Test Stats '] top1_per_class accuracy is: [95.1 96.6 80.  64.7 90.3 73.  95.6 92.3 91.6 96.5], average: 87.57
+['Test Stats '] top1_per_class accuracy is: [95.1 96.6 80.6 66.1 90.4 72.  95.6 92.  91.8 96.4], average: 87.66
+['Test Stats '] top1_per_class accuracy is: [95.3 95.9 80.8 66.8 90.1 71.5 95.  91.1 91.2 96.6], average: 87.43
+['Test Stats '] top1_per_class accuracy is: [95.  96.1 80.5 66.2 90.5 72.6 95.4 90.9 91.9 96.2], average: 87.53
+['Test Stats '] top1_per_class accuracy is: [95.5 96.  81.9 64.9 90.5 73.1 95.7 91.1 91.7 96.6], average: 87.7
+['Test Stats '] top1_per_class accuracy is: [95.4 96.  81.3 66.4 90.6 72.5 95.2 92.4 91.3 96.5], average: 87.76
+['Test Stats '] top1_per_class accuracy is: [95.6 97.3 81.2 67.2 90.2 70.8 95.8 92.1 92.  95.7], average: 87.79
+['Test Stats '] top1_per_class accuracy is: [94.9 96.5 81.1 67.4 90.3 71.5 95.6 90.6 91.7 96.7], average: 87.63
+['Test Stats '] top1_per_class accuracy is: [94.8 95.4 79.8 62.8 90.8 75.3 95.2 89.6 92.4 96.8], average: 87.29
+['Test Stats '] top1_per_class accuracy is: [95.6 94.9 78.1 63.5 91.2 74.7 96.  91.3 91.2 96.7], average: 87.32
+['Test Stats '] top1_per_class accuracy is: [94.4 95.9 79.2 64.4 90.5 74.7 94.9 91.1 90.5 96.1], average: 87.17
+['Test Stats '] top1_per_class accuracy is: [95.1 96.5 79.7 65.1 90.8 75.4 94.6 91.3 90.3 95.7], average: 87.45
+['Test Stats '] top1_per_class accuracy is: [95.  96.3 80.7 64.6 91.1 74.6 94.6 91.4 90.  95.7], average: 87.4
+['Test Stats '] top1_per_class accuracy is: [94.9 97.  79.7 62.7 91.5 73.9 95.1 90.4 90.5 95.5], average: 87.12
+['Test Stats '] top1_per_class accuracy is: [94.8 96.7 79.4 65.1 90.5 71.4 95.5 90.6 90.6 95.6], average: 87.02
+['Test Stats '] top1_per_class accuracy is: [94.7 96.9 78.8 67.6 90.5 73.5 95.  89.7 91.2 95.7], average: 87.36
+['Test Stats '] top1_per_class accuracy is: [94.5 96.8 79.  71.7 90.3 72.6 96.5 89.5 90.7 95.9], average: 87.75
+['Test Stats '] top1_per_class accuracy is: [93.9 96.4 80.3 70.9 91.6 71.  95.  89.8 91.3 96.5], average: 87.67
+['Test Stats '] top1_per_class accuracy is: [94.9 96.9 81.5 66.2 90.7 74.6 94.8 89.7 91.2 95.8], average: 87.63
+['Test Stats '] top1_per_class accuracy is: [93.6 96.8 81.5 66.5 91.4 75.2 94.5 89.2 91.7 96. ], average: 87.64
+['Test Stats '] top1_per_class accuracy is: [94.  96.4 80.8 64.8 91.3 74.8 94.9 90.6 91.8 95.8], average: 87.52
+['Test Stats '] top1_per_class accuracy is: [94.6 96.9 82.  63.  91.2 74.8 95.7 90.3 92.2 95.8], average: 87.65
+['Test Stats '] top1_per_class accuracy is: [94.6 96.4 81.6 62.6 89.7 74.5 95.4 91.2 90.7 96.6], average: 87.33
+['Test Stats '] top1_per_class accuracy is: [95.  97.  82.3 68.2 90.6 73.4 95.6 91.5 90.5 96.3], average: 88.04
+['Test Stats '] top1_per_class accuracy is: [94.9 96.9 81.  67.3 90.1 73.2 95.1 91.9 90.8 95.6], average: 87.68
+['Test Stats '] top1_per_class accuracy is: [95.6 97.  81.7 65.8 90.6 72.6 95.9 91.1 90.4 95.8], average: 87.65
+['Test Stats '] top1_per_class accuracy is: [95.3 96.7 82.1 66.8 91.5 73.4 95.8 90.8 90.6 96.7], average: 87.97
+['Test Stats '] top1_per_class accuracy is: [94.9 95.9 80.2 66.5 90.3 74.2 95.3 90.4 89.8 96.5], average: 87.4
+['Test Stats '] top1_per_class accuracy is: [94.9 97.1 82.4 60.2 90.6 76.7 95.3 90.4 90.3 95.7], average: 87.36
+['Test Stats '] top1_per_class accuracy is: [94.5 96.8 82.5 57.9 89.9 74.8 96.2 91.2 91.1 96.1], average: 87.1
+['Test Stats '] top1_per_class accuracy is: [95.  96.4 81.8 61.  90.5 75.  95.6 92.1 91.5 96.4], average: 87.53
+['Test Stats '] top1_per_class accuracy is: [95.3 96.9 81.7 63.6 90.5 74.1 95.1 91.8 90.7 96.5], average: 87.62
+['Test Stats '] top1_per_class accuracy is: [94.8 97.2 82.2 62.9 90.9 75.4 94.8 91.9 91.7 96. ], average: 87.78
+['Test Stats '] top1_per_class accuracy is: [94.6 97.6 80.1 64.5 91.  73.7 95.4 91.9 91.9 96.1], average: 87.68
+['Test Stats '] top1_per_class accuracy is: [94.2 96.4 80.7 67.9 91.6 71.5 95.5 91.9 91.9 96.4], average: 87.8
+['Test Stats '] top1_per_class accuracy is: [94.6 96.3 79.6 63.9 92.4 73.5 95.7 91.7 92.4 96.3], average: 87.64
+['Test Stats '] top1_per_class accuracy is: [95.9 96.4 79.7 67.1 92.3 72.8 95.5 92.3 92.  95.9], average: 87.99
+['Test Stats '] top1_per_class accuracy is: [95.5 95.9 80.4 65.9 92.3 71.9 95.4 92.1 91.3 96.9], average: 87.76
+['Test Stats '] top1_per_class accuracy is: [96.5 95.7 80.8 65.9 91.2 73.1 95.5 91.9 91.4 96.4], average: 87.84
+['Test Stats '] top1_per_class accuracy is: [95.5 97.2 80.3 65.3 90.8 72.5 95.9 92.2 92.  96.1], average: 87.78
+['Test Stats '] top1_per_class accuracy is: [95.2 97.5 80.5 67.2 91.1 73.6 95.2 90.5 91.  96.3], average: 87.81
+['Test Stats '] top1_per_class accuracy is: [95.9 97.4 81.5 65.8 91.4 73.7 95.6 90.6 91.2 95.5], average: 87.86
+['Test Stats '] top1_per_class accuracy is: [95.3 97.4 81.9 67.2 91.4 71.7 96.1 91.1 91.8 95.6], average: 87.95
+['Test Stats '] top1_per_class accuracy is: [95.  97.4 82.4 67.8 90.5 73.6 95.6 91.4 92.5 94.3], average: 88.05
+['Test Stats '] top1_per_class accuracy is: [94.3 96.9 82.1 70.  91.7 71.5 95.9 92.  92.4 95.8], average: 88.26
+['Test Stats '] top1_per_class accuracy is: [94.8 96.7 79.7 70.8 92.4 71.4 95.7 91.1 92.1 96.1], average: 88.08
+['Test Stats '] top1_per_class accuracy is: [95.1 97.2 78.6 70.6 91.5 72.7 95.7 90.5 91.3 95.6], average: 87.88
+['Test Stats '] top1_per_class accuracy is: [94.2 97.1 81.  67.9 91.7 72.3 95.9 91.5 92.2 95.9], average: 87.97
+['Test Stats '] top1_per_class accuracy is: [93.2 97.1 81.  68.7 91.6 75.2 96.1 91.3 92.2 96.2], average: 88.26
+['Test Stats '] top1_per_class accuracy is: [93.2 96.2 81.6 69.5 91.4 74.2 95.3 90.7 92.3 96.4], average: 88.08
+['Test Stats '] top1_per_class accuracy is: [94.  96.4 80.3 69.  91.6 74.5 95.6 91.7 89.9 96.4], average: 87.94
+['Test Stats '] top1_per_class accuracy is: [94.2 96.6 79.  66.8 91.  74.4 96.7 92.3 90.4 95.8], average: 87.72
+['Test Stats '] top1_per_class accuracy is: [94.2 97.4 80.2 69.9 90.4 73.3 96.2 92.2 91.5 95.1], average: 88.04
+['Test Stats '] top1_per_class accuracy is: [93.8 97.  80.6 70.4 90.7 71.7 95.9 92.3 92.3 95.8], average: 88.05
+['Test Stats '] top1_per_class accuracy is: [93.8 97.  79.7 71.5 91.7 72.1 96.1 91.  92.8 95.5], average: 88.12
+['Test Stats '] top1_per_class accuracy is: [94.7 96.9 80.4 69.6 92.1 73.5 95.7 91.9 91.7 96.1], average: 88.26
+['Test Stats '] top1_per_class accuracy is: [95.8 97.1 82.2 71.5 91.5 74.2 94.7 90.7 92.2 95.2], average: 88.51
+['Test Stats '] top1_per_class accuracy is: [94.8 96.7 79.8 71.9 91.3 74.6 95.3 90.1 92.4 96.4], average: 88.33
+['Test Stats '] top1_per_class accuracy is: [95.2 97.  81.2 71.1 90.5 74.  94.7 90.2 92.1 96.5], average: 88.25
+['Test Stats '] top1_per_class accuracy is: [94.7 96.3 81.4 71.7 90.3 73.4 95.1 91.1 92.3 96.5], average: 88.28
+['Test Stats '] top1_per_class accuracy is: [93.2 95.7 80.8 70.8 90.  73.8 96.1 90.8 92.9 96. ], average: 88.01
+['Test Stats '] top1_per_class accuracy is: [94.6 96.6 80.8 71.  90.4 73.7 95.3 90.7 92.3 95.7], average: 88.11
+['Test Stats '] top1_per_class accuracy is: [95.4 97.8 81.5 66.3 90.6 74.3 96.1 90.2 91.7 96. ], average: 87.99
+['Test Stats '] top1_per_class accuracy is: [95.  97.3 80.5 69.  90.1 74.1 95.5 90.4 91.7 95.7], average: 87.93
+['Test Stats '] top1_per_class accuracy is: [94.6 97.  80.  69.7 91.1 72.5 94.8 91.2 91.9 95.7], average: 87.85
+['Test Stats '] top1_per_class accuracy is: [95.3 97.1 80.5 68.5 90.5 74.7 96.1 91.5 91.7 96. ], average: 88.19
+['Test Stats '] top1_per_class accuracy is: [95.2 96.8 81.8 67.9 90.  74.9 96.1 91.4 91.1 96.6], average: 88.18
+['Test Stats '] top1_per_class accuracy is: [95.4 97.1 81.4 67.6 90.4 74.8 95.7 91.3 91.3 96.7], average: 88.17
+['Test Stats '] top1_per_class accuracy is: [96.  96.8 81.1 68.3 91.3 74.1 95.7 92.  91.2 96.2], average: 88.27
+['Test Stats '] top1_per_class accuracy is: [94.4 96.8 79.5 71.1 90.  73.2 95.  92.2 91.  96.5], average: 87.97
+['Test Stats '] top1_per_class accuracy is: [95.7 97.2 79.2 67.  90.4 73.8 96.1 89.  91.5 95.5], average: 87.54
+['Test Stats '] top1_per_class accuracy is: [95.3 96.6 80.5 69.1 90.6 73.3 96.  86.3 92.1 95.9], average: 87.57
+['Test Stats '] top1_per_class accuracy is: [94.5 96.2 79.6 68.1 91.4 75.  95.7 86.7 91.5 95.9], average: 87.46
+['Test Stats '] top1_per_class accuracy is: [95.5 97.1 79.8 69.4 90.4 73.5 96.5 87.7 91.1 95.9], average: 87.69
+['Test Stats '] top1_per_class accuracy is: [95.2 96.4 78.9 69.1 90.5 73.3 96.6 89.4 91.9 96.4], average: 87.77
+['Test Stats '] top1_per_class accuracy is: [95.6 96.1 82.2 71.6 90.5 72.6 96.3 89.6 91.4 96. ], average: 88.19
+['Test Stats '] top1_per_class accuracy is: [95.5 96.3 81.1 70.3 90.9 73.7 96.6 89.7 91.4 96.4], average: 88.19
+['Test Stats '] top1_per_class accuracy is: [95.5 96.7 81.7 69.5 90.8 74.  95.9 90.  91.4 96.4], average: 88.19
+['Test Stats '] top1_per_class accuracy is: [94.6 96.7 81.6 67.8 92.2 74.6 95.9 89.3 92.  96.5], average: 88.12
+['Test Stats '] top1_per_class accuracy is: [95.3 96.3 82.6 69.4 92.  74.5 95.6 89.9 91.3 96.8], average: 88.37
+['Test Stats '] top1_per_class accuracy is: [95.  96.6 82.  72.5 91.3 72.9 95.1 90.5 92.2 96.5], average: 88.46
+['Test Stats '] top1_per_class accuracy is: [94.2 96.6 81.8 70.3 91.2 72.1 96.4 92.2 91.6 96.2], average: 88.26
+['Test Stats '] top1_per_class accuracy is: [95.3 97.4 82.2 71.  90.5 73.6 96.3 91.4 90.6 95.8], average: 88.41
+['Test Stats '] top1_per_class accuracy is: [94.6 97.  82.9 68.  90.4 74.9 96.1 91.6 91.5 96.1], average: 88.31
+['Test Stats '] top1_per_class accuracy is: [94.7 96.9 82.3 71.  90.9 74.4 96.3 90.3 91.9 96.2], average: 88.49
+['Test Stats '] top1_per_class accuracy is: [95.  96.8 82.3 74.3 90.1 73.5 95.6 89.4 91.4 96.9], average: 88.53
+['Test Stats '] top1_per_class accuracy is: [95.1 96.4 81.2 74.9 91.1 72.9 95.9 91.2 91.7 96.6], average: 88.7
+['Test Stats '] top1_per_class accuracy is: [95.8 96.1 81.8 71.5 90.4 74.4 96.1 91.3 91.1 96.7], average: 88.52
+['Test Stats '] top1_per_class accuracy is: [95.1 97.2 82.8 71.6 90.  73.  95.3 91.4 91.5 96.4], average: 88.43
+['Test Stats '] top1_per_class accuracy is: [95.2 96.5 82.7 70.5 90.3 73.2 95.6 91.8 91.9 96.6], average: 88.43
+['Test Stats '] top1_per_class accuracy is: [95.1 96.8 82.3 70.4 91.3 74.2 94.4 91.3 91.  96.4], average: 88.32
+['Test Stats '] top1_per_class accuracy is: [94.1 96.9 82.4 70.2 91.3 74.5 95.2 92.4 91.2 96.7], average: 88.49
+['Test Stats '] top1_per_class accuracy is: [95.3 95.9 82.8 69.4 91.1 75.4 95.3 91.7 91.1 96.6], average: 88.46
+['Test Stats '] top1_per_class accuracy is: [94.9 96.8 81.4 70.1 90.3 74.9 95.3 91.9 91.9 96.4], average: 88.39
+['Test Stats '] top1_per_class accuracy is: [95.  96.6 82.  69.4 90.1 75.2 95.  92.  91.7 96.6], average: 88.36
+['Test Stats '] top1_per_class accuracy is: [94.9 96.2 80.3 71.1 90.2 73.4 95.9 92.3 91.7 96.5], average: 88.25
+['Test Stats '] top1_per_class accuracy is: [94.8 95.9 82.5 71.8 89.4 71.1 96.3 93.  91.9 96.6], average: 88.33
+['Test Stats '] top1_per_class accuracy is: [95.3 96.3 81.8 74.1 90.4 71.6 96.1 92.2 92.  96.2], average: 88.6
+['Test Stats '] top1_per_class accuracy is: [95.  97.  82.  72.7 90.5 73.  96.1 91.9 92.3 95.2], average: 88.57
+['Test Stats '] top1_per_class accuracy is: [95.5 97.  81.1 71.4 90.7 73.5 96.1 92.6 92.  95.7], average: 88.56
+['Test Stats '] top1_per_class accuracy is: [95.7 96.9 81.8 71.3 91.  73.  96.1 92.9 91.8 96. ], average: 88.65
+['Test Stats '] top1_per_class accuracy is: [94.8 96.8 81.1 66.8 91.2 74.  95.3 92.  92.6 96.4], average: 88.1
+['Test Stats '] top1_per_class accuracy is: [94.8 96.5 83.2 61.4 91.9 73.7 94.6 91.7 92.5 95.6], average: 87.59
+['Test Stats '] top1_per_class accuracy is: [95.7 96.5 82.7 66.3 91.7 72.3 96.4 92.3 91.9 95.9], average: 88.17
+['Test Stats '] top1_per_class accuracy is: [94.6 96.8 81.6 66.2 91.1 73.4 95.8 92.4 92.3 96. ], average: 88.02
+['Test Stats '] top1_per_class accuracy is: [95.5 97.4 80.5 67.5 89.8 74.  95.8 91.9 92.  96.4], average: 88.08
+['Test Stats '] top1_per_class accuracy is: [95.2 96.9 81.2 69.7 89.9 73.6 95.3 92.4 91.5 95.4], average: 88.11
+['Test Stats '] top1_per_class accuracy is: [95.3 96.5 80.6 69.3 90.6 73.4 95.2 92.8 92.  95.5], average: 88.12
+['Test Stats '] top1_per_class accuracy is: [94.4 96.  79.5 67.1 91.  75.2 95.8 92.6 92.8 96.1], average: 88.05
+['Test Stats '] top1_per_class accuracy is: [94.9 96.2 79.5 67.5 89.8 73.7 95.9 92.5 92.4 96.6], average: 87.9
+['Test Stats '] top1_per_class accuracy is: [94.8 96.5 81.  67.4 91.1 73.3 96.5 92.7 92.5 96. ], average: 88.18
+['Test Stats '] top1_per_class accuracy is: [95.  96.1 78.7 67.5 91.3 73.9 96.  91.2 91.6 96.3], average: 87.76
+['Test Stats '] top1_per_class accuracy is: [95.6 96.4 81.3 67.7 91.5 73.3 95.3 92.1 92.  96.2], average: 88.14
+['Test Stats '] top1_per_class accuracy is: [95.4 96.7 82.1 68.  90.2 72.8 95.5 92.7 91.8 96.3], average: 88.15
+['Test Stats '] top1_per_class accuracy is: [94.4 96.8 80.7 69.  90.7 73.3 96.  92.6 90.9 96.5], average: 88.09
+['Test Stats '] top1_per_class accuracy is: [95.5 96.5 81.  69.7 90.  73.3 95.3 92.8 90.3 96.4], average: 88.08
+['Test Stats '] top1_per_class accuracy is: [94.6 96.3 82.  70.9 91.4 73.2 94.7 92.4 90.6 96.4], average: 88.25
+['Test Stats '] top1_per_class accuracy is: [94.3 96.6 80.2 66.7 92.  73.5 96.2 92.  90.7 96.4], average: 87.86
+['Test Stats '] top1_per_class accuracy is: [94.6 96.2 80.1 68.3 91.7 74.8 95.7 90.9 90.5 96.6], average: 87.94
+['Test Stats '] top1_per_class accuracy is: [94.7 96.8 81.2 65.9 91.4 76.5 95.8 91.  91.2 96.3], average: 88.08
+['Test Stats '] top1_per_class accuracy is: [95.  96.9 80.8 67.4 92.8 75.1 95.5 90.5 90.9 96.4], average: 88.13
+['Test Stats '] top1_per_class accuracy is: [94.4 96.5 81.4 66.3 92.9 73.9 94.8 91.4 90.2 96.4], average: 87.82
+['Test Stats '] top1_per_class accuracy is: [94.3 96.9 80.3 64.5 91.6 74.7 96.3 91.9 90.1 96.6], average: 87.72
+['Test Stats '] top1_per_class accuracy is: [94.5 97.1 80.7 64.6 92.4 75.  95.5 92.5 89.3 95.9], average: 87.75
+['Test Stats '] top1_per_class accuracy is: [94.7 96.7 81.2 65.2 91.1 76.2 95.3 92.5 90.  96.3], average: 87.92
+['Test Stats '] top1_per_class accuracy is: [94.3 95.9 81.7 68.6 91.1 74.1 95.5 91.7 90.7 96.7], average: 88.03
+['Test Stats '] top1_per_class accuracy is: [94.6 97.4 81.7 67.6 90.8 72.7 95.4 92.4 90.9 95.8], average: 87.93
+['Test Stats '] top1_per_class accuracy is: [94.9 96.3 80.2 68.8 92.  71.3 95.1 93.  91.  96.7], average: 87.93
+['Test Stats '] top1_per_class accuracy is: [94.5 96.5 81.  65.6 91.1 73.7 96.5 92.4 91.2 96.5], average: 87.9
+['Test Stats '] top1_per_class accuracy is: [95.6 96.2 79.9 66.3 89.8 74.5 95.8 92.4 90.8 96.4], average: 87.77
+['Test Stats '] top1_per_class accuracy is: [95.9 95.2 79.5 65.5 91.4 75.  96.3 91.9 90.7 96.6], average: 87.8
+['Test Stats '] top1_per_class accuracy is: [95.5 94.6 80.1 66.6 90.9 75.3 96.  92.4 91.9 96.2], average: 87.95
+['Test Stats '] top1_per_class accuracy is: [94.8 95.8 80.8 65.2 91.  75.9 95.9 92.3 92.1 96.4], average: 88.02
+['Test Stats '] top1_per_class accuracy is: [94.  96.6 81.3 67.4 90.3 73.1 95.8 91.1 91.9 96.1], average: 87.76
+['Test Stats '] top1_per_class accuracy is: [94.5 95.6 81.  63.9 90.3 75.  96.5 90.1 92.4 96.2], average: 87.55
